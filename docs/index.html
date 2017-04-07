@@ -1,0 +1,28 @@
+---
+layout: default
+title: LBRES2106 - Soil-plant interactions
+---
+
+<div id="home">
+  <h1>About the course</h1>
+  <p> This course is about plant and how they interact with their neighbouring soil environment. It was first given at the Université catholique de Louvain in 2017</p>
+  </br>
+  </br>
+  <h1>Courses</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+
+  <hr>
+  </br></br>
+  <h2>About Me</h2>
+  <p> I am an Assistant Professor between the Forschungszentrum Jülich and the Université catholique de Louvain since Sept 2016. More about my <a href="http://www.plantmodelling.xyz">group here</a>a>.
+
+The aim of my research is (i) to understand how various signals that carry information are interacting and being conveyed and integrated at the plant level and (ii) to amplify discrete physiological knowledge into functional plant processes. All of that using Functional Structural Plant Models.
+
+I develop image analysis and phenotyping tools to help researchers in their scientific workflow. And when I am not implementing image analysis tools, I often play with plant models.
+  
+
+</div>
