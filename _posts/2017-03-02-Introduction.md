@@ -8,7 +8,7 @@ date:   2017-04-03
 	written by Larry York and Guillaume Lobet
 
 
-<a href="{{ site.baseurl }}/docs/LBRAI2219-Introduction.pdf">Download PDF version</a>
+<a href="{{ site.baseurl }}/docs/LBRAI2219-Introduction.pdf">Download PDF version</a> || <a href="https://github.com/plantmodelling/LBRAI2219/tree/gh-pages">View source</a>
 
 ----
 
@@ -47,7 +47,7 @@ A single root is a relatively simple organ, compared to a human brain, for examp
 In the model plant Arabidopsis, the center of the root, the `stele`, contains both `xylem vessels` (that are responsible for the transport of water and nutrient from the root to the shoot) and `phloem vessels` (are responsible for the carbohydrates from the shoot to the root). The outermost layer of the stele is the called the `endodermis` (from the greek endon, within, and dérma, skin). The endodermis usually develops secondary structures (`Casparian strips` and `suberin lamellae`) to prevent water and ions from flowing across cell walls (the `apoplast`) but rather forces them through the cellular fluid (the `symplast`). Outside of the endodermis lies the `cortex`, composed mainly of `parenchyma cells`. The outermost limit of the cortex is surrounded by the `epidermis`, that can also present the same type of hydrophobic structures as the endodermis. After differentiation, the different cells will elongate, to reach their final size.  The process of elongation is finely controlled by the apex, in order to define the growth direction and rate of the root. Indeed, the root apex can sense any deviation from the vertical orientation, through the re-distribution of dense starch particles (`statoliths`) within the root cap. As the root growth deviates from the vertical direction, the root apex will induce an asymmetric growth of the elongating cells, leading to re-direction of the root (`gravitropism`).
 
 
-<img src="https://plantmodelling.github.io/LBRAI2219//img/intro/root-anatomy.png" style="width: 50%"/>
+<img src="https://plantmodelling.github.io/LBRAI2219/img/intro/root-anatomy.png" style="width: 80%"/>
 >[Bouché, Frédéric (2017) figshare](https://doi.org/10.6084/m9.figshare.4688752.v1)
 
 
