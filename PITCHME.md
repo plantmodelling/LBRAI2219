@@ -26,7 +26,8 @@ Course evaluation: http://bit.ly/lbres2219-eval
 
 ## Course overview
 
-- Single root anatomy
+- Introduction
+- Single root anatomy <!-- .element: class="fragment" -->
 - Root systems <!-- .element: class="fragment" -->
 - What about the soil? <!-- .element: class="fragment" -->
 - Roots and water uptake  <!-- .element: class="fragment" -->
@@ -35,12 +36,35 @@ Course evaluation: http://bit.ly/lbres2219-eval
 
 
 
+<!---------------------------------------------------->
+<!--    	INTRODUCTION   -->
+<!---------------------------------------------------->
+---
+
+
+## Introduction
+
+
++++
+
+#### Plant do not move...
 
 
 
 
 
+
+
+
+
+
+
+
+<!---------------------------------------------------->
 <!--    	SECTION ABOUT THE SINGLE ROOTS ANATOMY   -->
+<!---------------------------------------------------->
+
+
 ---
 
 ## Single root anatomy
@@ -68,6 +92,15 @@ Examples unsing the MECHA model
 
 
 
++++
+
+#### Try out the model
+
+
+![](img/mecha.png)
+
+
+[https://plantmodelling.shinyapps.io/mecha/](https://plantmodelling.shinyapps.io/mecha/)
 
 
 
@@ -75,7 +108,10 @@ Examples unsing the MECHA model
 
 
 
+<!---------------------------------------------------->
 <!--    	SECTION ABOUT THE ROOT SYSTEMS    -->
+<!---------------------------------------------------->
+
 ---
 
 ## Root systems
@@ -134,15 +170,44 @@ Examples unsing the MECHA model
 
 +++
 
-#####
+##### Integrations
+
+
+
++++
+
+#### Try out the model
+
+
+![](img/crootbox.png)
+
+
+[https://plantmodelling.shinyapps.io/shinyRootBox/](https://plantmodelling.shinyapps.io/shinyRootBox/)
+
+
+<!---------------------------------------------------->
+<!--    	SECTION ABOUT THE SOIL   -->
+<!---------------------------------------------------->
+
+---
+
+## What about the soil? 
+
+<span style="font-size:0.6em; color:orange">Some basic (but important) soil properties</span>
+
+<span style="font-size:0.5em; color:gray"> <i class="fa fa-arrow-circle-o-down" aria-hidden="true"></i> Press down for details </span>
+
+
+![](img/root-2.png)
 
 
 
 
 
 
+<!---------------------------------------------------->
+<!--    	SECTION ABOUT THE INTERACTIONS   -->
+<!---------------------------------------------------->
 
-
-
-
+---
 
