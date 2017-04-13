@@ -14,7 +14,9 @@
   color: lightgrey;
 }
 
-h2{
+.reveal,
+.reveal h1,
+.reveal h2{
   color: orange;
   font-family: 'Changa One', cursive;
 }
