@@ -47,10 +47,9 @@ Course evaluation: http://bit.ly/lbres2219-eval
 
 +++
 
-### Root have simple radial and axial anatomy
 
-
-<img src="img/root-anatomy.png" height="600"/> | [Bouché, Frédéric (2017) figshare](https://doi.org/10.6084/m9.figshare.4688809.v1)
+<img src="img/root-anatomy.png" height="600"/> | #### Root have simple radial and axial anatomy
+[Bouché, Frédéric (2017) figshare](https://doi.org/10.6084/m9.figshare.4688809.v1)
 
 
 +++
