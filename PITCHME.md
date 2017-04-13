@@ -36,7 +36,7 @@ Course evaluation: http://bit.ly/lbres2219-eval
 # Single root anatomy
 
 
-![](../img/intro/root-1.png)
+![](img/intro/root-1.png)
 
 
 <small>
