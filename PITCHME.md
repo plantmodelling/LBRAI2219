@@ -85,7 +85,9 @@ Examples unsing the MECHA model
 #### Root systems are populations of roots
 
 
+
 ![](img/root-pop.png)
+
 <span class="ref">Kutschera, L. et al. (1997) Wurzelatlas der Kulturpflanzen</span>
 
 +++ 
