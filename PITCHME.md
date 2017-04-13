@@ -49,6 +49,10 @@ Course evaluation: http://bit.ly/lbres2219-eval
 ## Introduction
 
 
+#VSLIDE?image=img/zombie.jpg
+
+### Plants vs animals
+
 +++
 
 ### Plants vs animals
@@ -65,17 +69,17 @@ Course evaluation: http://bit.ly/lbres2219-eval
     <td>Move to food source</td>
   </tr>
   <tr class="fragment">
-    <td> Threats </td>
+    <td> **Threats** </td>
     <td>Have to face threads</td>
     <td>Move away from threads</td>
   </tr>
   <tr class="fragment">
-    <td> Growth </td>
+    <td> **Growth** </td>
     <td>Potentially unlimited</td>
     <td> Limited </td>
   </tr>
   <tr class="fragment">
-    <td> Death </td>
+    <td> **Death** </td>
     <td>Can partially die</td>
     <td> Die </td>
   </tr>  
@@ -83,12 +87,7 @@ Course evaluation: http://bit.ly/lbres2219-eval
 
 
 
-
-
-
 +++?image=img/halle-1.jpg
-
-
 
 
 
@@ -121,9 +120,22 @@ Course evaluation: http://bit.ly/lbres2219-eval
 
 +++
 
-## Water flow trought the root cylinder
+#### Water flow trought the root cylinder
 
-Examples unsing the MECHA model
+Three different pathways:
+
+- Apoplastic pathway
+	- mass movement
+	- water potential differences
+	- high transpiration (day)
+
+- Symplatic pathway
+	- diffusion
+	- osmotic differences 
+	- low transpiration (night)
+
+- Transcellular pathway	
+
 
 
 
