@@ -51,7 +51,7 @@ Course evaluation: http://bit.ly/lbres2219-eval
 
 #VSLIDE?image=img/zombie.jpg
 
-### Plants vs animals
+# Plants vs animals
 
 +++
 

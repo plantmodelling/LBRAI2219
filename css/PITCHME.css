@@ -9,3 +9,12 @@
   font-size: 0.5em;
   color: lightgrey;
 }
+
+h2{
+  color: orange;
+  font-family: 'Changa One', cursive;
+  src: url('../fonts/ChangaOne-Regular.ttf');
+
+
+
+}
