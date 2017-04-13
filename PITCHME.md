@@ -13,6 +13,7 @@ Guillaume Lobet
 
 <small>guillaume.lobet@uclouvain.be</small>
 
+---
 
 ## About the course
 
