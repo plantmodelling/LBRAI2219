@@ -34,22 +34,28 @@ Course evaluation: http://bit.ly/lbres2219-eval
 
 ## Single root anatomy
 
+<span style="font-size:0.6em; color:gray">Axial and radial anatomy of a single root</span>
+
+<span style="font-size:0.6em; color:gray"> Press down for details </span>
+
 
 ![](img/root-1.png)
 
-
-<small>
-
 [Bouché, Frédéric (2017) figshare](https://doi.org/10.6084/m9.figshare.4688809.v1)
-</small>
 
 
 +++
 
+## Root have simple radial and axial anatomy
+
 
 <img src="img/root-anatomy.png" height="600"/>
 
-<small>
-
 [Bouché, Frédéric (2017) figshare](https://doi.org/10.6084/m9.figshare.4688809.v1)
-</small>
+
+
++++
+
+## Water flow trought the root cylinder
+
+Examples unsing the MECHA model
