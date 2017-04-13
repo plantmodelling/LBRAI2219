@@ -123,17 +123,16 @@ Guillaume Lobet
 
 ![](img/root-anatomy.png)
 
-
 +++
 
 #### Water flow trought the root cylinder
 
-Three different pathways:
+![](img/water_radial.png)
 
++++
 
-<table>
-  <tr>
-	<td width="50%">
+#### Three pathways
+
 - Apoplastic pathway
 	- mass movement
 	- water potential differences
@@ -145,18 +144,13 @@ Three different pathways:
 	- low transpiration (night)
 
 - Transcellular pathway	
-		</td>
-		<td width="50%">
-			<img src="https://raw.githubusercontent.com/plantmodelling/LBRAI2219/gh-pages/img/water_radial.png" />
-		</td>
-	</tr>
-</table>
-
-
-
 
 
 +++
+
+
+
+
 
 #### Try out the model
 
@@ -189,12 +183,16 @@ Three different pathways:
 
 
 
+#VSLIDE?image=img/root-pop.png
+
+## Root systems are populations of roots
+
+
 +++
 
-#### Root systems are populations of roots
+#### Root age distribution in Crypsis aculeata
 
-
-+++?image=img/root-pop.png
+![](img/crypsis.jpg)
 
 
 +++ 
@@ -268,9 +266,56 @@ Three different pathways:
 
 
 
+
+
+
+
 <!---------------------------------------------------->
 <!--    	SECTION ABOUT THE INTERACTIONS   -->
 <!---------------------------------------------------->
 
 ---
+
+## How do root architecture shape water uptake?
+
+<span style="font-size:0.6em; color:orange">About root hydraulic architecture, root density profile and drought</span>
+
+<span style="font-size:0.5em; color:gray"> <i class="fa fa-arrow-circle-o-down" aria-hidden="true"></i> Press down for details </span>
+
+![](img/water-uptake.png)
+
+
++++
+
+#### Root process and water uptake
+
+![](img/root-age.png)
+
+
+
+
+
+
+
+
+
+
+<!---------------------------------------------------->
+<!--    	SECTION ABOUT THE INTERACTIONS   -->
+<!---------------------------------------------------->
+
+---
+
+## How do water uptake affect root architecture?
+
+
+
++++
+
+#### Hydro-patterning
+
+
+
+
+
 
