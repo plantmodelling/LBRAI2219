@@ -5,7 +5,8 @@ page_number: true
 footer: Guillaume Lobet || LBRAI2219 || Soil-root-interactions
 -->
 
-## **Soil-root interactions** - LBRAI2219
+## Soil-root interactions
+###LBRAI2219
 
 
 Guillaume Lobet
@@ -13,15 +14,20 @@ Guillaume Lobet
 <small>guillaume.lobet@uclouvain.be</small>
 
 
-</br>
-
-Course evaluation: http://bit.ly/lbres2219-eval
+## About the course
 
 
+- Course **material** is online: https://plantmodelling.github.io/LBRAI2219/
 
+- Collaborative **summary**
+	- everybody can take notes in a Google Doc
+	- http://bit.ly/LBRAI2219-summary
+	- I will correct the summary after each course
 
+- Course **evaluation**: 
+	- http://bit.ly/LBRAI2219-eval
 
----
+--- 
 
 ## Course overview
 
@@ -33,8 +39,7 @@ Course evaluation: http://bit.ly/lbres2219-eval
 	- How do root architecture shape the water uptake? <!-- .element: class="fragment" -->
 	- How do the water content shape the root architecture?  <!-- .element: class="fragment" -->
 
-<span style="font-size:0.5em; color:gray"> <i class="fa fa-th" aria-hidden="true"></i> Press "o" for overview </span> | 
-<span style="font-size:0.5em; color:gray"> <i class="fa fa-expand" aria-hidden="true"></i> Press "f" for full screen </span>
+<span style="font-size:0.5em; color:gray"> <i class="fa fa-th" aria-hidden="true"></i> Press "o" for overview  **|**  <i class="fa fa-expand" aria-hidden="true"></i> Press "f" for full screen </span>
 
 
 

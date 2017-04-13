@@ -8,6 +8,10 @@
   max-height: 500px;
 }
 
+.reveal{
+  font-size: 1em;
+}
+
 .reveal h1,
 .reveal h2{
   color: #1AA3DA;
