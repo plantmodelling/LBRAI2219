@@ -4,9 +4,8 @@ $size: 16:9
 page_number: true
 footer: Guillaume Lobet || LBRAI2219 || Soil-root-interactions
 -->
-<center>
 
-# **Soil-root interactions** - LBRAI2219
+## **Soil-root interactions** - LBRAI2219
 
 </br></br>
 
@@ -17,12 +16,11 @@ Guillaume Lobet
 </br>
 
 Course evaluation: http://bit.ly/lbres2219-eval
-</center>
 
 
 ---
 
-# Course overview
+## Course overview
 
 - What are roots and how do they form root systems
 - What is the soil? 
@@ -34,7 +32,7 @@ Course evaluation: http://bit.ly/lbres2219-eval
 
 ---
 
-# Single root anatomy
+## Single root anatomy
 
 
 ![](img/root-1.png)
@@ -46,7 +44,7 @@ Course evaluation: http://bit.ly/lbres2219-eval
 </small>
 
 
-++++
++++
 
 
 ![](img/root-anatomy.png)
