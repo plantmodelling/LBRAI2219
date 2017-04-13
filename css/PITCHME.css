@@ -1,5 +1,5 @@
 
-@import url('https://fonts.googleapis.com/css?family=Changa+One');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:900');
 
 
 .reveal section img {
@@ -11,5 +11,5 @@
 .reveal h1,
 .reveal h2{
   color: #1AA3DA;
-  font-family: 'Changa One', cursive;
+font-family: 'Montserrat', sans-serif;
 }

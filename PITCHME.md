@@ -7,7 +7,6 @@ footer: Guillaume Lobet || LBRAI2219 || Soil-root-interactions
 
 ## **Soil-root interactions** - LBRAI2219
 
-</br></br>
 
 Guillaume Lobet
 
