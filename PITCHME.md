@@ -6,7 +6,7 @@ footer: Guillaume Lobet || LBRAI2219 || Soil-root-interactions
 -->
 <center>
 
-# **Soil-root interactions** - LRAI2219
+# **Soil-root interactions** - LBRAI2219
 
 </br></br>
 
@@ -31,13 +31,25 @@ Course evaluation: http://bit.ly/lbres2219-eval
 	- How do the water content shape the root architecture? 
 
 
+
 ---
 
 # Single root anatomy
 
 
-![](img/intro/root-1.png)
+![](img/root-1.png)
 
+
+<small>
+
+[Bouché, Frédéric (2017) figshare](https://doi.org/10.6084/m9.figshare.4688809.v1)
+</small>
+
+
+++++
+
+
+![](img/root-anatomy.png)
 
 <small>
 
