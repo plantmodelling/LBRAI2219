@@ -134,8 +134,7 @@ Examples unsing the MECHA model
 #### Root systems are populations of roots
 
 
-
-![](img/root-pop.png)
++++?image=img/root-pop.png
 
 
 +++ 
