@@ -51,13 +51,35 @@ Course evaluation: http://bit.ly/lbres2219-eval
 
 +++
 
-#### Plants vs animals
+### Plants vs animals
 
- | Plants | Animals
----- | ---- | ----
-Access to food | Have to grow more to reach food source | Move to food source
-Threats | Have to face threads | Move away from threads
-Growth | Potentially unlimited | Limited
+<table>
+  <tr>
+    <th></th>
+    <th> Plants </th> 
+    <th> Animals </th>
+  </tr>
+  <tr>
+    <td>**Access to food**</td>
+    <td>Have to grow more to reach food source</td>
+    <td>Move to food source</td>
+  </tr>
+  <tr class="fragment">
+    <td> Threats </td>
+    <td>Have to face threads</td>
+    <td>Move away from threads</td>
+  </tr>
+  <tr class="fragment">
+    <td> Growth </td>
+    <td>Potentially unlimited</td>
+    <td> Limited </td>
+  </tr>
+  <tr class="fragment">
+    <td> Death </td>
+    <td>Can partially die</td>
+    <td> Die </td>
+  </tr>  
+</table>
 
 
 
