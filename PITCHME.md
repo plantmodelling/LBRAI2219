@@ -147,7 +147,7 @@ Three different pathways:
 - Transcellular pathway	
 		</td>
 		<td width="50%">
-			![](img/water_radial.png)
+			![](https://raw.githubusercontent.com/plantmodelling/LBRAI2219/gh-pages/img/water_radial.png)
 		</td>
 	</tr>
 </table>
