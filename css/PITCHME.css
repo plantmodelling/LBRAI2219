@@ -1,10 +1,6 @@
 
-@font-face {
-  font-family: 'Changa One';
-  src: url('../fonts/ChangaOne-Regular.ttf');
-  font-weight: bold;
-  font-style: normal;
-}
+@import url('https://fonts.googleapis.com/css?family=Changa+One');
+
 
 .reveal section img {
   border: 0;
