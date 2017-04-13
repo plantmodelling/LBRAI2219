@@ -34,6 +34,10 @@ Course evaluation: http://bit.ly/lbres2219-eval
 	- How do root architecture shape the water uptake? <!-- .element: class="fragment" -->
 	- How do the water content shape the root architecture?  <!-- .element: class="fragment" -->
 
+<span style="font-size:0.5em; color:gray"> <i class="fa fa-th" aria-hidden="true"></i> Press "o" for overview </span> | 
+<span style="font-size:0.5em; color:gray"> <i class="fa fa-expand" aria-hidden="true"></i> Press "f" for full screen </span>
+
+
 
 
 <!---------------------------------------------------->
