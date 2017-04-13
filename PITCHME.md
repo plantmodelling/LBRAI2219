@@ -47,7 +47,7 @@ Course evaluation: http://bit.ly/lbres2219-eval
 +++
 
 
-<img scr="img/root-anatomy.png" height="100%"/>
+<img src="img/root-anatomy.png" height="600"/>
 
 <small>
 
