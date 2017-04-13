@@ -64,13 +64,15 @@ Examples unsing the MECHA model
 
 
 
+
+
 ---
 
 ## Root systems
 
 <span style="font-size:0.6em; color:orange">Different types of root systems and how they are built</span>
 
-<span style="font-size:0.5em; color:gray"> Press down for details </span>
+<span style="font-size:0.5em; color:gray"> <i class="fa fa-plus-square" aria-hidden="true"></i> Press down for details </span>
 
 
 ![](img/root-2.png)
@@ -80,7 +82,23 @@ Examples unsing the MECHA model
 
 +++
 
-### Root systems are populations of roots
+#### Root systems are populations of roots
 
 
 ![](img/root-pop.png)
+
+
++++ 
+
+#### Monocotyledons
+
+
+
+
++++ 
+
+#### Dicotyledons
+
+
+
+
