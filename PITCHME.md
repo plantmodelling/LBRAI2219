@@ -35,14 +35,14 @@ Course evaluation: http://bit.ly/lbres2219-eval
 
 ## Single root anatomy
 
-<span style="font-size:0.6em; color:gray">Axial and radial anatomy of a single root</span>
+<span style="font-size:0.6em; color:orange">Axial and radial anatomy of a single root</span>
 
-<span style="font-size:0.6em; color:gray"> Press down for details </span>
+<span style="font-size:0.5em; color:gray"> Press down for details </span>
 
 
 ![](img/root-1.png)
 
-[Bouché, Frédéric (2017) figshare](https://doi.org/10.6084/m9.figshare.4688809.v1)
+<small>[Bouché, Frédéric (2017) figshare](https://doi.org/10.6084/m9.figshare.4688809.v1)</small>
 
 
 +++
@@ -51,7 +51,7 @@ Course evaluation: http://bit.ly/lbres2219-eval
 
 <img src="img/root-anatomy.png" height="400"/> 
 
-[Bouché, Frédéric (2017) figshare](https://doi.org/10.6084/m9.figshare.4688809.v1)
+<small>[Bouché, Frédéric (2017) figshare](https://doi.org/10.6084/m9.figshare.4688809.v1)</small>
 
 
 +++
@@ -59,3 +59,28 @@ Course evaluation: http://bit.ly/lbres2219-eval
 ## Water flow trought the root cylinder
 
 Examples unsing the MECHA model
+
+
+
+
+
+---
+
+## Root systems
+
+<span style="font-size:0.6em; color:orange">Different types of root systems and how they are built</span>
+
+<span style="font-size:0.5em; color:gray"> Press down for details </span>
+
+
+![](img/root-2.png)
+
+<small>[Bouché, Frédéric (2017) figshare](https://doi.org/10.6084/m9.figshare.4688809.v1)</small>
+
+
++++
+
+### Root systems are populations of roots
+
+
+![](img/root-pop.png)
