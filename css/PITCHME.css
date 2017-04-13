@@ -1,3 +1,11 @@
+
+@font-face {
+  font-family: 'Changa One';
+  src: url('../fonts/ChangaOne-Regular.ttf');
+  font-weight: bold;
+  font-style: normal;
+}
+
 .reveal section img {
   border: 0;
   box-shadow: none;
@@ -13,8 +21,4 @@
 h2{
   color: orange;
   font-family: 'Changa One', cursive;
-  src: url('../fonts/ChangaOne-Regular.ttf');
-
-
-
 }
