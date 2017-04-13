@@ -19,18 +19,28 @@ Guillaume Lobet
 Course evaluation: http://bit.ly/lbres2219-eval
 
 
+
+
+
 ---
 
 ## Course overview
 
-- What are roots and how do they form root systems
-- What is the soil? 
-- Roots and water uptake
-	- How do root architecture shape the water uptake?
-	- How do the water content shape the root architecture? 
+- Single root anatomy
+- Root systems <!-- .element: class="fragment" -->
+- What about the soil? <!-- .element: class="fragment" -->
+- Roots and water uptake  <!-- .element: class="fragment" -->
+	- How do root architecture shape the water uptake? <!-- .element: class="fragment" -->
+	- How do the water content shape the root architecture?  <!-- .element: class="fragment" -->
 
 
 
+
+
+
+
+
+<!--    	SECTION ABOUT THE SINGLE ROOTS ANATOMY   -->
 ---
 
 ## Single root anatomy
@@ -42,16 +52,12 @@ Course evaluation: http://bit.ly/lbres2219-eval
 
 ![](img/root-1.png)
 
-<small>[Bouché, Frédéric (2017) figshare](https://doi.org/10.6084/m9.figshare.4688809.v1)</small>
-
 
 +++
 
 #### Root have simple radial and axial anatomy
 
 <img src="img/root-anatomy.png" height="400"/> 
-
-<small>[Bouché, Frédéric (2017) figshare](https://doi.org/10.6084/m9.figshare.4688809.v1)</small>
 
 
 +++
@@ -66,6 +72,10 @@ Examples unsing the MECHA model
 
 
 
+
+
+
+<!--    	SECTION ABOUT THE ROOT SYSTEMS    -->
 ---
 
 ## Root systems
@@ -77,7 +87,6 @@ Examples unsing the MECHA model
 
 ![](img/root-2.png)
 
-<span class="ref">[Bouché, Frédéric (2017) figshare](https://doi.org/10.6084/m9.figshare.4688809.v1)</span>
 
 
 +++
@@ -88,7 +97,6 @@ Examples unsing the MECHA model
 
 ![](img/root-pop.png)
 
-<span class="ref">Kutschera, L. et al. (1997) Wurzelatlas der Kulturpflanzen</span>
 
 +++ 
 
