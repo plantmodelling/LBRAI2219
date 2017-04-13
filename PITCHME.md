@@ -18,7 +18,8 @@ Guillaume Lobet
 ## About the course
 
 
-- Course **material** is online: https://plantmodelling.github.io/LBRAI2219/
+- Course **material** is online: 
+	- https://plantmodelling.github.io/LBRAI2219/
 
 - Collaborative **summary**
 	- everybody can take notes in a Google Doc
@@ -120,7 +121,7 @@ Guillaume Lobet
 
 #### Root have simple radial and axial anatomy
 
-<img src="img/root-anatomy.png" height="400"/> 
+![](img/root-anatomy.png)
 
 
 +++
@@ -129,6 +130,10 @@ Guillaume Lobet
 
 Three different pathways:
 
+
+<table>
+  <tr>
+	<td width="50%">
 - Apoplastic pathway
 	- mass movement
 	- water potential differences
@@ -140,6 +145,13 @@ Three different pathways:
 	- low transpiration (night)
 
 - Transcellular pathway	
+		</td>
+		<td width="50%">
+			![](img/water_radial.png)
+		</td>
+	</tr>
+</table>
+
 
 
 
