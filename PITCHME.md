@@ -109,7 +109,7 @@ Guillaume Lobet
 
 ## Single root anatomy
 
-<span style="font-size:0.6em; color:orange">Axial and radial anatomy of a single root</span>
+<span style="color:orange">Axial and radial anatomy of a single root</span>
 
 <span style="font-size:0.5em; color:gray"> <i class="fa fa-arrow-circle-o-down" aria-hidden="true"></i> Press down for details </span>
 
@@ -174,7 +174,7 @@ Guillaume Lobet
 
 ## Root systems
 
-<span style="font-size:0.6em; color:orange">Different types of root systems and how they are built</span>
+<span style="color:orange">Different types of root systems and how they are built</span>
 
 <span style="font-size:0.5em; color:gray"> <i class="fa fa-arrow-circle-o-down" aria-hidden="true"></i> Press down for details </span>
 
@@ -254,7 +254,7 @@ Guillaume Lobet
 
 ## What about the soil? 
 
-<span style="font-size:0.6em; color:orange">Some basic (but important) soil properties</span>
+<span style="color:orange">Some basic (but important) soil properties</span>
 
 <span style="font-size:0.5em; color:gray"> <i class="fa fa-arrow-circle-o-down" aria-hidden="true"></i> Press down for details </span>
 
@@ -278,7 +278,7 @@ Guillaume Lobet
 
 ## How do root architecture shape water uptake?
 
-<span style="font-size:0.6em; color:orange">About root hydraulic architecture, root density profile and drought</span>
+<span style="color:orange">About root hydraulic architecture, root density profile and drought</span>
 
 <span style="font-size:0.5em; color:gray"> <i class="fa fa-arrow-circle-o-down" aria-hidden="true"></i> Press down for details </span>
 
