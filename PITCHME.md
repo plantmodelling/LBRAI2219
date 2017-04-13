@@ -37,7 +37,7 @@ Course evaluation: http://bit.ly/lbres2219-eval
 
 <span style="font-size:0.6em; color:orange">Axial and radial anatomy of a single root</span>
 
-<span style="font-size:0.5em; color:gray"> Press down for details </span>
+<span style="font-size:0.5em; color:gray"> <i class="fa fa-arrow-circle-o-down" aria-hidden="true"></i> Press down for details </span>
 
 
 ![](img/root-1.png)
@@ -72,12 +72,12 @@ Examples unsing the MECHA model
 
 <span style="font-size:0.6em; color:orange">Different types of root systems and how they are built</span>
 
-<span style="font-size:0.5em; color:gray"> <i class="fa fa-plus-square" aria-hidden="true"></i> Press down for details </span>
+<span style="font-size:0.5em; color:gray"> <i class="fa fa-arrow-circle-o-down" aria-hidden="true"></i> Press down for details </span>
 
 
 ![](img/root-2.png)
 
-<small>[Bouché, Frédéric (2017) figshare](https://doi.org/10.6084/m9.figshare.4688809.v1)</small>
+<span class="ref">[Bouché, Frédéric (2017) figshare](https://doi.org/10.6084/m9.figshare.4688809.v1)</span>
 
 
 +++
@@ -86,7 +86,7 @@ Examples unsing the MECHA model
 
 
 ![](img/root-pop.png)
-
+<span class="ref">Kutschera, L. et al. (1997) Wurzelatlas der Kulturpflanzen</span>
 
 +++ 
 
@@ -98,6 +98,40 @@ Examples unsing the MECHA model
 +++ 
 
 #### Dicotyledons
+
+
+
++++ 
+
+#### Root production
+
+
+
++++
+
+##### Axial growth
+
+
++++
+
+##### Tropisms
+
+
++++
+
+##### Branching
+
+
++++
+
+#####
+
+
+
+
+
+
+
 
 
 
