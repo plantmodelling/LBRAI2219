@@ -51,11 +51,20 @@ Course evaluation: http://bit.ly/lbres2219-eval
 
 +++
 
-#### Plant do not move...
+#### Plants vs animals
+
+ | Plants | Animals
+---- | ---- | ----
+Access to food | Have to grow more to reach food source | Move to food source
+Threats | Have to face threads | Move away from threads
+Growth | Potentially unlimited | Limited
 
 
 
 
+
+
++++?image=img/halle-1.jpg
 
 
 
