@@ -2,11 +2,11 @@
 <!-- 
 $size: 16:9
 page_number: true
-footer: Guillaume Lobet || LBRAI2219 || Soil-root-interactions
+footer: Guillaume Lobet || LBRES2106 || Soil-root-interactions
 -->
 
 ## Soil-root interactions
-###LBRAI2219
+###LBRES2106
 
 
 Guillaume Lobet
@@ -19,15 +19,15 @@ Guillaume Lobet
 
 
 - Course **material** is online: 
-	- https://plantmodelling.github.io/LBRAI2219/
+	- https://plantmodelling.github.io/LBRES2106/
 
 - Collaborative **summary**
 	- everybody can take notes in a Google Doc
-	- http://bit.ly/LBRAI2219-summary
+	- http://bit.ly/LBRES2106-summary
 	- I will correct the summary after each course
 
 - Course **evaluation**: 
-	- http://bit.ly/LBRAI2219-eval
+	- http://bit.ly/LBRES2106-eval
 
 --- 
 
