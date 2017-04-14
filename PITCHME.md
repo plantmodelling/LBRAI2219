@@ -54,6 +54,9 @@ Guillaume Lobet
 
 ## Introduction
 
+<span style="font-size:0.5em; color:gray"> <i class="fa fa-arrow-circle-o-down" aria-hidden="true"></i> Press down for details </span>
+
+
 
 #VSLIDE?image=img/zombie.jpg
 
@@ -63,6 +66,7 @@ Guillaume Lobet
 
 ### Plants vs animals
 
+<div style="font-size:0.8em;">
 <table>
   <tr>
     <th></th>
@@ -90,10 +94,31 @@ Guillaume Lobet
     <td> Die </td>
   </tr>  
 </table>
-
+</div>
 
 
 +++?image=img/halle-1.jpg
+
+
+
+
+<!---------------------------------------------------->
+<!--    	SECTION ABOUT THE SOIL   -->
+<!---------------------------------------------------->
+
+---
+
+## The soil
+
+<span style="color:orange">Some basic (but important) soil properties</span>
+
+<span style="font-size:0.5em; color:gray"> <i class="fa fa-arrow-circle-o-down" aria-hidden="true"></i> Press down for details </span>
+
+
+![](img/root-2.png)
+
+
++++
 
 
 
@@ -246,20 +271,7 @@ Guillaume Lobet
 [https://plantmodelling.shinyapps.io/shinyRootBox/](https://plantmodelling.shinyapps.io/shinyRootBox/)
 
 
-<!---------------------------------------------------->
-<!--    	SECTION ABOUT THE SOIL   -->
-<!---------------------------------------------------->
 
----
-
-## What about the soil? 
-
-<span style="color:orange">Some basic (but important) soil properties</span>
-
-<span style="font-size:0.5em; color:gray"> <i class="fa fa-arrow-circle-o-down" aria-hidden="true"></i> Press down for details </span>
-
-
-![](img/root-2.png)
 
 
 
