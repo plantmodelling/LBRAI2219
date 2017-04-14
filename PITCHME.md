@@ -17,7 +17,6 @@ Guillaume Lobet
 
 ## About the course
 
-<div style="font-size:0.8em;">
 
 - Course **material** is online: 
 	- https://plantmodelling.github.io/LBRES2106/
@@ -30,13 +29,11 @@ Guillaume Lobet
 - Course **evaluation**: 
 	- http://bit.ly/LBRES2106-eval
 
-</div>
 
 --- 
 
 ## Course overview
 
-<div style="font-size:0.8em;">
 
 - Introduction
 - Single root anatomy <!-- .element: class="fragment" -->
@@ -45,8 +42,6 @@ Guillaume Lobet
 - Roots and water uptake  <!-- .element: class="fragment" -->
 	- How do root architecture shape the water uptake? <!-- .element: class="fragment" -->
 	- How do the water content shape the root architecture?  <!-- .element: class="fragment" -->
-
-</div>
 
 <span style="font-size:0.5em; color:gray"> <i class="fa fa-th" aria-hidden="true"></i> Press "o" for overview  **|**  <i class="fa fa-expand" aria-hidden="true"></i> Press "f" for full screen </span>
 
@@ -263,10 +258,6 @@ Guillaume Lobet
 +++
 
 ##### Axial growth
-
-
-+++
-
 
 ![](img/growth_diameter.png)
 
