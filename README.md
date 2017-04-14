@@ -1,4 +1,4 @@
-[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/plantmodelling/LBRAI2219/gh-pages?grs=github&t=white)
+[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/plantmodelling/LBRES2106/gh-pages?grs=github&t=white)
 
 This is a site built and maintained by Guillaume Lobet.
 
