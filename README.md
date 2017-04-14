@@ -1,2 +1,2 @@
-# LBRAI2219
-Teaching materials for the course LBRAI2219
+# LBRES2106
+Teaching materials for the course LBRES2106
