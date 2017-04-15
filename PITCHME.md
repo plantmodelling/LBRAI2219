@@ -110,17 +110,22 @@ Guillaume Lobet
 
 +++?image=img/methuselah.jpg
 
++++
+
+
 ### Time heterogeneity
 
 Some plants have to deal with different time scales that most anaimals have to. Up the 5000 years old. 
 
 
-+++?image=img/maize-field.jpg
++++?image=img/maize-field.JPG
 
 +++
 
 ### Space heterogeneity
 Between the atmosphere (dry and gaeous) and the soil (mostly wet and solid).
+
+![](img/beff.jpg)
 
 
 
