@@ -110,8 +110,9 @@ Guillaume Lobet
 
 #VSLIDE?image=img/methuselah.jpg
 
+<span style="color:white">
 ## Methuselah (5000 years old)
-
+</span>
 +++
 
 
@@ -121,8 +122,9 @@ Some plants have to deal with different time scales that most anaimals have to.
 
 
 #VSLIDE?image=img/maize-field.JPG
-
+<span style="color:white">
 ## Space heterogeneity: soil vs atmosphere
+</span>
 
 +++
 
