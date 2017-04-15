@@ -102,7 +102,25 @@ Guillaume Lobet
 +++?image=img/halle-1.jpg
 
 
++++
 
+## Plants have to deal with heterogeneity
+
+
+
++++?image=img/methuselah.jpg
+
+### Time heterogeneity
+
+Some plants have to deal with different time scales that most anaimals have to. Up the 5000 years old. 
+
+
++++?image=img/maize-field.jpg
+
++++
+
+### Space heterogeneity
+Between the atmosphere (dry and gaeous) and the soil (mostly wet and solid).
 
 
 
@@ -122,7 +140,6 @@ Guillaume Lobet
 ![](img/root-2.png)
 
 
-+++
 
 
 #VSLIDE?image=img/root-soil.png
