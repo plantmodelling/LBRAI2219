@@ -128,12 +128,12 @@ Methuselah (5000 years old)
 +++
 
 #### "Interaction" can mean diffent things
-- Interactions between compartiments of the system	- `$$Plant_t = f(Plant_{t-1}, Soil_t, ...)$$`
-	- `$$Soil_t = f(Soil_{t-1}, Plant_t, ...)$$`
-	- non-linear system
+- Interactions between compartiments of the system
+`$$Plant_t = f(Plant_{t-1}, Soil_t, ...)$$`
+`$$Soil_t = f(Soil_{t-1}, Plant_t, ...)$$`
 	    - Interactions between function of the system
-	- 	local supply in N <i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>
-ramification <i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>
+	- 	local supply in N <i class="fa fa-arrow-right" aria-hidden="true"></i>
+ramification <i class="fa fa-arrow-right" aria-hidden="true"></i>
 local K upake- Non-additivity ot single (or multiple factors)
 	- effect of new dose of a given factor is variable between dose, species, developmental stages, ...
 	- effect depend on the environment	
