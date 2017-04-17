@@ -36,9 +36,10 @@ Guillaume Lobet
 
 
 - Introduction
+	- Plants vs animals
+	- Some basics about the soil
 - Single root anatomy <!-- .element: class="fragment" -->
 - Root systems <!-- .element: class="fragment" -->
-- What about the soil? <!-- .element: class="fragment" -->
 - Roots and water uptake  <!-- .element: class="fragment" -->
 	- How do root architecture shape the water uptake? <!-- .element: class="fragment" -->
 	- How do the water content shape the root architecture?  <!-- .element: class="fragment" -->
@@ -105,18 +106,18 @@ Guillaume Lobet
 ## Plants have to deal with heterogeneity
 
 
-
 #VSLIDE?image=img/methuselah.jpg
 
 <span style="color:white">
 ## Methuselah (5000 years old)
 </span>
-+++
 
+
++++
 
 ### Time heterogeneity
 
-Some plants have to deal with different time scales that most anaimals have to. 
+Some plants have to deal with different time scales that most animals have to. 
 
 
 #VSLIDE?image=img/maize-field.JPG
@@ -130,28 +131,15 @@ Some plants have to deal with different time scales that most anaimals have to.
 
 ![](img/soil_profile.png)
 
++++
+
 ### Horizontal heterogeneity in the soil
 
 ![](img/beff.jpg)
 
 
 
-<!---------------------------------------------------->
-<!--    	SECTION ABOUT THE SOIL   -->
-<!---------------------------------------------------->
-
----
-
 ## The soil
-
-<span style="color:orange">Some basic (but important) soil properties</span>
-
-<span style="font-size:0.5em; color:gray"> <i class="fa fa-arrow-circle-o-down" aria-hidden="true"></i> Press down for details </span>
-
-
-![](img/root-2.png)
-
-
 
 
 #VSLIDE?image=img/root-soil.png
@@ -159,15 +147,26 @@ Some plants have to deal with different time scales that most anaimals have to.
 
 +++
 
-
-
 ![](img/soil-triangle.png)
 
 
 +++
 
+### The root environment = the rhizosphere
+
 ![](img/rhizosphere.png)
 
++++
+
+### Ion movement in the soils
+
+![](img/soil-york-1.png)
+
++++
+
+### Water movement in the soils
+
+![](img/soil-york-2.png)
 
 
 <!---------------------------------------------------->
