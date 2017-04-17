@@ -127,7 +127,7 @@ Methuselah (5000 years old)
 
 +++
 
-#### "Interaction" can mean diffent things
+#### *Interaction* can mean diffent things
 - Interactions between compartiments of the system
 `$$Plant_t = f(Plant_{t-1}, Soil_t, ...)$$`
 `$$Soil_t = f(Soil_{t-1}, Plant_t, ...)$$`
@@ -198,6 +198,19 @@ local K upake- Non-additivity ot single (or multiple factors)
 
 ![](img/soil-york-2.png)
 
+
++++
+
+### Soil retention curve
+
+![](img/soil-retention.bmp)
+
+
++++
+
+### Soil conductivity curve
+
+![](img/soil-conductivity.png)
 
 
 
