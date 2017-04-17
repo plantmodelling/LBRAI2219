@@ -36,6 +36,7 @@ Guillaume Lobet
 
 
 - Introduction
+	- Interactions
 	- Plants vs animals
 	- Some basics about the soil
 - Single root anatomy <!-- .element: class="fragment" -->
@@ -57,7 +58,7 @@ Guillaume Lobet
 
 ## Introduction
 
-<span style="color:orange">About root, soil and anmials</span>
+<span style="color:orange">About interactions, soil and animals</span>
 
 <span style="font-size:0.5em; color:gray"> <i class="fa fa-arrow-circle-o-down" aria-hidden="true"></i> Press down for details </span>
 
