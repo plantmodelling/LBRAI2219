@@ -141,14 +141,14 @@ local K upake- Non-additivity ot single (or multiple factors)
 
 +++
 
-### Example of effect of single nutrient syupply on root architecture
+#### Example of effect of single nutrient syupply on root architecture
 
 ![](img/gruber.jpg)
 
 
 +++
 
-### Example of multiple of single nutrient syupply on root architecture
+#### Example of multiple of single nutrient syupply on root architecture
 
 ![](img/kellermeyer.png)
 
