@@ -19,15 +19,15 @@ Guillaume Lobet
 
 
 - Course **material** is online: 
-	-<i class="fa fa-link" aria-hidden="true"></i> bit.ly/LBRES2106
+	- <i class="fa fa-link" aria-hidden="true"></i> http://bit.ly/LBRES2106
 
 - Collaborative **summary**
 	- everybody can take notes in a Google Doc
 	- I will correct the summary after each course
-	-  <i class="fa fa-link" aria-hidden="true"></i> bit.ly/LBRES2106-summary
+	-  <i class="fa fa-link" aria-hidden="true"></i> http://bit.ly/LBRES2106-summary
 
 - Course **evaluation**: 
-	- <i class="fa fa-link" aria-hidden="true"></i> bit.ly/LBRES2106-eval
+	- <i class="fa fa-link" aria-hidden="true"></i> http://bit.ly/LBRES2106-eval
 
 
 --- 
@@ -66,7 +66,7 @@ Guillaume Lobet
 ![](img/roots.png)
 
 
-+++
++++?image=img/interactions.jpg
 
 # Interactions
 
