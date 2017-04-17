@@ -1,2 +1,3 @@
 theme-override : css/PITCHME.css
 footnote : "Guillaume Lobet | Université catholique de Louvain | LBRES2106 | v2017 | https://plantmodelling.github.io/LBRAI2219/"
+mathjax : TeX-MML-AM_HTMLorMML-full
