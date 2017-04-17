@@ -66,8 +66,6 @@ Guillaume Lobet
 
 +++
 
-### Plants vs animals
-
 <div style="font-size:0.8em;">
 <table>
   <tr>
@@ -75,20 +73,20 @@ Guillaume Lobet
     <th> Plants </th> 
     <th> Animals </th>
   </tr>
-  <tr>
-    <td>**Access to food**</td>
-    <td>Have to grow more to reach food source</td>
-    <td>Move to food source</td>
+  <tr class="fragment">
+    <td>**Food source**</td>
+    <td class="fragment">Autotroph</td>
+    <td class="fragment">Heterotroph</td>
   </tr>
   <tr class="fragment">
-    <td> **Threats** </td>
-    <td>Have to face threads</td>
-    <td>Move away from threads</td>
+    <td>**Access to food**</td>
+    <td class="fragment">Have to grow more to reach food source</td>
+    <td class="fragment">Move to food source</td>
   </tr>
   <tr class="fragment">
     <td> **Growth** </td>
-    <td>Potentially unlimited</td>
-    <td> Limited </td>
+    <td class="fragment">Potentially unlimited</td>
+    <td class="fragment"> Limited </td>
   </tr>
   <tr class="fragment">
     <td> **Death** </td>
@@ -128,7 +126,11 @@ Some plants have to deal with different time scales that most anaimals have to.
 
 +++
 
-### Space heterogeneity within he soil
+### Vertical heterogeneity in the soil
+
+![](img/soil_profile.png)
+
+### Horizontal heterogeneity in the soil
 
 ![](img/beff.jpg)
 
