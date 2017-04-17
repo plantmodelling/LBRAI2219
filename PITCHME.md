@@ -19,15 +19,15 @@ Guillaume Lobet
 
 
 - Course **material** is online: 
-	- https://plantmodelling.github.io/LBRES2106/
+	-<i class="fa fa-link" aria-hidden="true"></i> bit.ly/LBRES2106
 
 - Collaborative **summary**
 	- everybody can take notes in a Google Doc
-	- http://bit.ly/LBRES2106-summary
 	- I will correct the summary after each course
+	-  <i class="fa fa-link" aria-hidden="true"></i> bit.ly/LBRES2106-summary
 
 - Course **evaluation**: 
-	- http://bit.ly/LBRES2106-eval
+	- <i class="fa fa-link" aria-hidden="true"></i> bit.ly/LBRES2106-eval
 
 
 --- 
