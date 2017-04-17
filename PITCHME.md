@@ -95,13 +95,13 @@ Guillaume Lobet
   </tr>
   <tr class="fragment">
     <td> **Environment** </td>
-    <td>Highly heterogeneous</td>
-    <td> Most homogeneous </td>
+    <td class="fragment">Highly heterogeneous</td>
+    <td class="fragment"> Most homogeneous </td>
   </tr>  
   <tr class="fragment">
     <td> **Death** </td>
-    <td>Can partially die</td>
-    <td> Die </td>
+    <td class="fragment">Can partially die</td>
+    <td class="fragment"> Die </td>
   </tr>  
 </table>
 </div>
@@ -109,24 +109,18 @@ Guillaume Lobet
 
 +++?image=img/halle-1.jpg
 
-## TEST
++++?image=img/methuselah.jpg
 
-+++
-
-
-#VSLIDE?image=img/methuselah.jpg
-
-<span style="color:white">
 ## Time heterogeneity 
 
+<span style="color:white">
 Methuselah (5000 years old)
 </span>
 
-
 #VSLIDE?image=img/maize-field.JPG
-<span style="color:white">
+
 ## Space heterogeneity: soil vs atmosphere
-</span>
+
 
 
 
