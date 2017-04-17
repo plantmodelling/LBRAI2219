@@ -65,7 +65,40 @@ Guillaume Lobet
 ![](img/roots.png)
 
 
-#VSLIDE?image=img/zombie.jpg
++++
+
+# Interactions
+
++++
+
+#### *Interaction* can mean diffent things
+- Interactions between compartiments of the system
+`$$Plant_t = f(Plant_{t-1}, Soil_t, ...)$$`
+`$$Soil_t = f(Soil_{t-1}, Plant_t, ...)$$`
+	    - Interactions between function of the system
+	- 	local supply in N <i class="fa fa-arrow-right" aria-hidden="true"></i>
+ramification <i class="fa fa-arrow-right" aria-hidden="true"></i>
+local K upake- Non-additivity ot single (or multiple factors)
+	- effect of new dose of a given factor is variable between dose, species, developmental stages, ...
+	- effect depend on the environment	
+
+
++++
+
+#### Example of effect of single nutrient syupply on root architecture
+
+![](img/gruber.jpg)
+
+
++++
+
+#### Example of multiple of single nutrient syupply on root architecture
+
+![](img/kellermeyer.png)
+
+
+
++++?image=img/zombie.jpg
 
 # Plants vs animals
 
@@ -109,15 +142,8 @@ Guillaume Lobet
 
 +++?image=img/halle-1.jpg
 
-+++?image=img/methuselah.jpg
 
-## Time heterogeneity 
-
-<span style="color:white">
-Methuselah (5000 years old)
-</span>
-
-#VSLIDE?image=img/maize-field.JPG
++++?image=img/maize-field.JPG
 
 ## Space heterogeneity: soil vs atmosphere
 
@@ -127,39 +153,10 @@ Methuselah (5000 years old)
 
 +++
 
-#### *Interaction* can mean diffent things
-- Interactions between compartiments of the system
-`$$Plant_t = f(Plant_{t-1}, Soil_t, ...)$$`
-`$$Soil_t = f(Soil_{t-1}, Plant_t, ...)$$`
-	    - Interactions between function of the system
-	- 	local supply in N <i class="fa fa-arrow-right" aria-hidden="true"></i>
-ramification <i class="fa fa-arrow-right" aria-hidden="true"></i>
-local K upake- Non-additivity ot single (or multiple factors)
-	- effect of new dose of a given factor is variable between dose, species, developmental stages, ...
-	- effect depend on the environment	
+# Some basics about the soil
 
 
-+++
-
-#### Example of effect of single nutrient syupply on root architecture
-
-![](img/gruber.jpg)
-
-
-+++
-
-#### Example of multiple of single nutrient syupply on root architecture
-
-![](img/kellermeyer.png)
-
-
-
-+++
-
-## Some basics about the soil
-
-
-#VSLIDE?image=img/root-soil.png
++++?image=img/root-soil.png
 
 
 +++
@@ -178,7 +175,15 @@ local K upake- Non-additivity ot single (or multiple factors)
 
 ### Horizontal heterogeneity in the soil
 
-![](img/beff.jpg)
+![](img/horizontal-profile.jpg)
+
+
++++
+
+### Time heterogeneity in the soil
+
+![](img/water-uptake.png)
+
 
 +++
 
@@ -297,7 +302,7 @@ local K upake- Non-additivity ot single (or multiple factors)
 
 
 
-#VSLIDE?image=img/root-pop.png
++++?image=img/root-pop.png
 
 ## Root systems are populations of roots
 
