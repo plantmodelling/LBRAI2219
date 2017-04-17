@@ -57,8 +57,12 @@ Guillaume Lobet
 
 ## Introduction
 
+<span style="color:orange">About root, soil and anmials</span>
+
 <span style="font-size:0.5em; color:gray"> <i class="fa fa-arrow-circle-o-down" aria-hidden="true"></i> Press down for details </span>
 
+
+![](img/roots.png)
 
 
 #VSLIDE?image=img/zombie.jpg
@@ -90,6 +94,11 @@ Guillaume Lobet
     <td class="fragment"> Limited </td>
   </tr>
   <tr class="fragment">
+    <td> **Environment** </td>
+    <td>Highly heterogeneous</td>
+    <td> Most homogeneous </td>
+  </tr>  
+  <tr class="fragment">
     <td> **Death** </td>
     <td>Can partially die</td>
     <td> Die </td>
@@ -100,30 +109,40 @@ Guillaume Lobet
 
 +++?image=img/halle-1.jpg
 
+## TEST
 
 +++
-
-## Plants have to deal with heterogeneity
 
 
 #VSLIDE?image=img/methuselah.jpg
 
 <span style="color:white">
-## Methuselah (5000 years old)
+## Time heterogeneity 
+
+Methuselah (5000 years old)
 </span>
-
-
-+++
-
-### Time heterogeneity
-
-Some plants have to deal with different time scales that most animals have to. 
 
 
 #VSLIDE?image=img/maize-field.JPG
 <span style="color:white">
 ## Space heterogeneity: soil vs atmosphere
 </span>
+
+
+
++++
+
+## Some basics about the soil
+
+
+#VSLIDE?image=img/root-soil.png
+
+
++++
+
+### The soil is complex medium
+
+![](img/soil-triangle.png)
 
 +++
 
@@ -137,22 +156,9 @@ Some plants have to deal with different time scales that most animals have to.
 
 ![](img/beff.jpg)
 
-
-
-## The soil
-
-
-#VSLIDE?image=img/root-soil.png
-
-
 +++
 
-![](img/soil-triangle.png)
-
-
-+++
-
-### The root environment = the rhizosphere
+### Root environment = Rhizosphere
 
 ![](img/rhizosphere.png)
 
@@ -167,6 +173,8 @@ Some plants have to deal with different time scales that most animals have to.
 ### Water movement in the soils
 
 ![](img/soil-york-2.png)
+
+
 
 
 <!---------------------------------------------------->
