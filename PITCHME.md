@@ -12,6 +12,7 @@ footer: Guillaume Lobet || LBRES2106 || Soil-root-interactions
 Guillaume Lobet
 
 <small>guillaume.lobet@uclouvain.be</small>
+
 <small style="color:#1da1f2"><i class="fa fa-twitter" aria-hidden="true"></i> @guillaumelobet</small>
 
 ---
