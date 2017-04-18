@@ -39,11 +39,11 @@ Guillaume Lobet
 	- Interactions
 	- Plants vs animals
 	- Some basics about the soil
-- Single root anatomy <!-- .element: class="fragment" -->
-- Root systems <!-- .element: class="fragment" -->
-- Roots and water uptake  <!-- .element: class="fragment" -->
-	- How do root architecture shape the water uptake? <!-- .element: class="fragment" -->
-	- How do the water content shape the root architecture?  <!-- .element: class="fragment" -->
+- Single root anatomy 
+- Root systems architecture
+- Roots and water uptake
+	- How do root architecture shape the water uptake? 
+	- How do the water content shape the root architecture?
 
 <span style="font-size:0.5em; color:gray"> <i class="fa fa-th" aria-hidden="true"></i> Press "o" for overview  **|**  <i class="fa fa-expand" aria-hidden="true"></i> Press "f" for full screen </span>
 
@@ -72,7 +72,7 @@ Guillaume Lobet
 
 +++
 
-#### *Interaction* can mean diffent things
+#### *Interaction* can mean different things
 - Interactions between compartiments of the system
 `$$Plant_t = f(Plant_{t-1}, Soil_t, ...)$$`
 `$$Soil_t = f(Soil_{t-1}, Plant_t, ...)$$`
@@ -86,14 +86,14 @@ local K upake- Non-additivity ot single (or multiple factors)
 
 +++
 
-#### Example of effect of single nutrient syupply on root architecture
+#### Example of effect of single nutrient supply on root architecture
 
 ![](img/gruber.jpg)
 
 
 +++
 
-#### Example of multiple of single nutrient syupply on root architecture
+#### Example of multiple nutrient supply on root architecture
 
 ![](img/kellermeyer.png)
 
@@ -183,7 +183,7 @@ local K upake- Non-additivity ot single (or multiple factors)
 
 ### Time heterogeneity in the soil
 
-![](img/water-uptake.png)
+![](img/water-uptake-1.jpg)
 
 
 +++
