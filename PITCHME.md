@@ -159,13 +159,6 @@ local K upake- Non-additivity ot single (or multiple factors)
 
 +++?image=img/root-soil.png
 
-
-+++
-
-### The soil is complex medium
-
-![](img/soil-triangle.png)
-
 +++
 
 ### Vertical heterogeneity in the soil
@@ -205,6 +198,13 @@ local K upake- Non-additivity ot single (or multiple factors)
 ![](img/soil-york-2.png)
 
 
+
++++
+
+### The soil is complex medium
+
+![](img/soil-triangle.png)
+
 +++
 
 ### Soil retention curve
@@ -217,6 +217,21 @@ local K upake- Non-additivity ot single (or multiple factors)
 ### Soil conductivity curve
 
 ![](img/soil-conductivity.png)
+
+
++++
+
+#### Soil is:
+
+- complex media
+	- different particule sizes
+	- different physico-chemical properties
+- highly heterogeneous
+	- verticaly
+	- horizontaly
+	- in time
+- non linear behaviour
+
 
 
 
