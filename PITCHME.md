@@ -190,7 +190,7 @@ local K upake- Non-additivity ot single (or multiple factors)
 
 ### Root environment = Rhizosphere
 
-![](img/rhizosphere.png)
+![](img/rhizosphere.jpg)
 
 +++
 
