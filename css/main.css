@@ -166,3 +166,9 @@ a:visited { color: #ce7481; text-decoration: none;}
 .post pre.terminal code {
   background-color: #333;
 }
+
+
+.slides{
+  width: 150%;
+}
+
