@@ -13,7 +13,7 @@ Guillaume Lobet
 
 <small>guillaume.lobet@uclouvain.be</small>
 
-<small style="color:#1da1f2"><i class="fa fa-twitter" aria-hidden="true"></i> @guillaumelobet</small>
+<small><i class="fa fa-twitter" aria-hidden="true" style="color:#1da1f2"></i> @guillaumelobet</small>
 
 ---
 
