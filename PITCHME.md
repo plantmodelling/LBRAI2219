@@ -356,8 +356,11 @@ local K upake- Non-additivity ot single (or multiple factors)
 
 ##### Axial growth
 
----?video=https://www.youtube.com/embed/IjGgt8rOg_0
 
+![Video](https://www.youtube.com/embed/IjGgt8rOg_0)
+
+
++++
 
 ![](img/growth_diameter.png)
 
