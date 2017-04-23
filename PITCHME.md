@@ -262,6 +262,7 @@ local K upake- Non-additivity ot single (or multiple factors)
 
 +++
 
+
 #### Water flow trought the root cylinder
 
 ![](img/water_radial.png)
@@ -354,6 +355,9 @@ local K upake- Non-additivity ot single (or multiple factors)
 +++
 
 ##### Axial growth
+
+---?video=https://www.youtube.com/embed/IjGgt8rOg_0
+
 
 ![](img/growth_diameter.png)
 
