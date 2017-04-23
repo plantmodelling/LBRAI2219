@@ -262,44 +262,11 @@ local K upake- Non-additivity ot single (or multiple factors)
 
 +++
 
+#### Root tip
 
-#### Water flow trought the root cylinder
-
-![](img/water_radial.png)
-
-+++
-
-#### Three pathways
-
-- Apoplastic pathway
-	- mass movement
-	- water potential differences
-	- high transpiration (day)
-
-- Symplatic pathway
-	- diffusion
-	- osmotic differences 
-	- low transpiration (night)
-
-- Transcellular pathway	
-
+![](img/root-anatomy-1.png)
 
 +++
-
-
-
-
-
-#### Try out the model
-
-
-![](img/mecha.png)
-
-
-[https://plantmodelling.shinyapps.io/mecha/](https://plantmodelling.shinyapps.io/mecha/)
-
-
-
 
 
 
@@ -357,7 +324,7 @@ local K upake- Non-additivity ot single (or multiple factors)
 ##### Axial growth
 
 
-![Video](https://www.youtube.com/embed/IjGgt8rOg_0)
+![Video](https://www.youtube.com/embed/IjGgt8rOg_0?t=13s)
 
 
 +++
@@ -438,6 +405,32 @@ local K upake- Non-additivity ot single (or multiple factors)
 #### Root process and water uptake
 
 ![](img/root-age.png)
+
+
+
+#### Water flow trought the root cylinder
+
+![](img/water_radial.png)
+
++++
+
+#### Three pathways
+
+- Apoplastic pathway
+	- mass movement
+	- water potential differences
+	- high transpiration (day)
+
+- Symplatic pathway
+	- diffusion
+	- osmotic differences 
+	- low transpiration (night)
+
+- Transcellular pathway	
+
+
++++
+
 
 
 
