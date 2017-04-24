@@ -325,10 +325,16 @@ local K upake- Non-additivity ot single (or multiple factors)
 +++
 
 
-#### Root production
+## Root production
+
++++
 
 ![](img/root-production.jpg)
 
+
++++
+
+## Growth
 
 +++
 
@@ -352,6 +358,9 @@ Simple process at the single root scale:
 ![Video](https://www.youtube.com/embed/IjGgt8rOg_0?t=13s)
 
 
+
+
+
 +++ 
 
 ##### The meristem is region of important metabolic activity
@@ -365,15 +374,32 @@ Simple process at the single root scale:
 
 +++
 
+##### Growth rate is not always constant
+
+![](img/archidart.png)
+
++++
+
+##### Growth rate is not always constant
+
+![](img/root_growth.png)
+
++++
+
 ##### Growth as a function of diameter ?
 
 ![](img/growth_diameter.jpg)
 
 
 
+
+
++++
+## Tropisms
+
 +++
 
-#### Tropisms
+##### Tropisms = growth re-direction
 
 ![](img/tropism.jpg)
 
@@ -404,7 +430,6 @@ Simple process at the single root scale:
 ![](img/gravistropism_maize.png)
 
 
-
 +++
 
 ##### Gravitropism = f(soil temp)
@@ -412,9 +437,18 @@ Simple process at the single root scale:
 ![](img/gravitropism_temp.jpg)
 
 
+
+
+
+
+
 +++
 
-#### Branching
+## Root branching
+
++++
+
+##### Branching
 
 
 ![](img/orman.jpg)
@@ -422,8 +456,15 @@ Simple process at the single root scale:
 
 +++
 
-##### Lateral roots represent a large proportion of the total root system
+##### Lateral roots emerge with a given angle
 
+![](img/angles.png)
+
+
+
++++
+
+##### Lateral roots represent a large proportion of the total root system
 
 
 ![](img/lateral_roots.png)
@@ -431,7 +472,7 @@ Simple process at the single root scale:
 
 +++
 
-#### The parent root can be divided in different regions
+##### The parent root can be divided in different regions
 
 
 - Basal zone
@@ -449,7 +490,7 @@ Simple process at the single root scale:
 
 +++
 
-#### LAUZ = f(growth)
+##### LAUZ = f(growth)
 
 
 LAUZ = Length of Apical Unbranched Zone
@@ -461,11 +502,8 @@ LAUZ = Length of Apical Unbranched Zone
 
 +++
 
-#### Integrations
+## Integrations
 
-
-
-+++
 
 +++
 
