@@ -311,23 +311,19 @@ local K upake- Non-additivity ot single (or multiple factors)
 
 +++ 
 
-#### Monocotyledons
-
-![](img/maize.jpg)
+#### Monocotyledons vs dicots
 
 
-+++ 
-
-#### Dicotyledons
-
-![](img/lupin.jpg)
+| Dicot (Lupin) | Monocot (Maize)|
+| -------- | -------- |
+| ![](img/lupin.jpg) | ![](img/maize.jpg)|
 
 
 +++ 
 
 #### Monocotyledons vs dicots
 
-![](img/monocot-dict.jpg)
+![](img/monocot-dicot.jpg)
 
 
 +++ 
@@ -335,14 +331,13 @@ local K upake- Non-additivity ot single (or multiple factors)
 #### Monocotyledons vs dicots
 
 
- | | Monocot | Dicot|
- |-- | -- | --|
+| | Monocot | Dicot|
+| ------- | -------- | -------- |
+| **Type** | fasciculated | herring-bone|
+| **Seminals** | yes | no |
+| **Adventitous roots** | yes | (yes) |
+| **Secondary growth** | no | yes |
  
- |**Type** | fasciculated | herring-bone|
- |**Seminals** | yes| no|
- |**Adventitous roots** | yes | (yes)|
- |**Secondary growth** | no | yes|
-
 
 +++ 
 
