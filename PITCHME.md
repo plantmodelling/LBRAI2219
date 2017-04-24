@@ -305,7 +305,6 @@ local K upake- Non-additivity ot single (or multiple factors)
 
 #### Root type nomenclature
 
-![](img/crypsis.jpg)
 
 
 
@@ -335,17 +334,16 @@ local K upake- Non-additivity ot single (or multiple factors)
 
 #### Monocotyledons vs dicots
 
-<div style="font-size:0.8em;">
 
- | Monocot | Dicot
- -- | -- | --
+ | | Monocot | Dicot|
+ |-- | -- | --|
  
- **Type** | fasciculated | herring-bone
- **Seminals** | yes| no
- **Adventitous roots** | yes | (yes)
- **Secondary growth** | no | yes
+ |**Type** | fasciculated | herring-bone|
+ |**Seminals** | yes| no|
+ |**Adventitous roots** | yes | (yes)|
+ |**Secondary growth** | no | yes|
 
-</div>
+
 +++ 
 
 #### Root production
