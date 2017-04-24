@@ -253,6 +253,7 @@ local K upake- Non-additivity ot single (or multiple factors)
 
 ![](img/root-2.png)
 
++++
 
 #### Root have simple radial and axial anatomy
 
@@ -266,7 +267,6 @@ local K upake- Non-additivity ot single (or multiple factors)
 
 ![](img/crosssection.jpg)
 
-+++ 
 
 
 +++?image=img/root-pop.png
@@ -314,7 +314,7 @@ local K upake- Non-additivity ot single (or multiple factors)
 
 +++
 
-#### Complex root architecture areise from a limited number of simple processes
+#### Complex root architecture arise from a limited number of simple processes
 
 1. Root production
 2. Root axial growth
@@ -390,10 +390,12 @@ Simple process at the single root scale:
 	- toward increasing water potential values
 
 
+
 - Tropisms changes with
 	- root types
 	- root ages
 	- environment conditions
+	- 
 
 +++
 
@@ -420,7 +422,11 @@ Simple process at the single root scale:
 
 +++
 
-![Video](https://www.youtube.com/embed/5XDpqa-83qc)
+##### Lateral roots represent a large proportion of the total root system
+
+
+
+![](img/lateral_roots.png)
 
 
 +++
@@ -433,6 +439,11 @@ Simple process at the single root scale:
 - Apical zone
 
 ![](img/branching.jpg)
+
+
++++
+
+![Video](https://www.youtube.com/embed/5XDpqa-83qc)
 
 
 
