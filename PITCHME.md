@@ -159,13 +159,13 @@ local K upake- Non-additivity ot single (or multiple factors)
 # Some basics about the soil
 
 
-+++?image=img/root-soil.png
++++?image=img/root-soil.jpg
 
 +++
 
 ### Vertical heterogeneity in the soil
 
-![](img/soil_profile.png)
+![](img/soil_profile.jpg)
 
 +++
 
@@ -197,7 +197,7 @@ local K upake- Non-additivity ot single (or multiple factors)
 
 ### Water movement in the soils
 
-![](img/soil-york-2.png)
+![](img/soil-york-2.jpg)
 
 
 
@@ -218,7 +218,7 @@ local K upake- Non-additivity ot single (or multiple factors)
 
 ### Soil conductivity curve
 
-![](img/soil-conductivity.png)
+![](img/soil-conductivity.jpg)
 
 
 +++
@@ -300,19 +300,52 @@ local K upake- Non-additivity ot single (or multiple factors)
 ![](img/crypsis.jpg)
 
 
+
++++
+
+#### Root type nomenclature
+
+![](img/crypsis.jpg)
+
+
+
+
 +++ 
 
 #### Monocotyledons
 
-
+![](img/maize.jpg)
 
 
 +++ 
 
 #### Dicotyledons
 
+![](img/lupin.jpg)
 
 
++++ 
+
+#### Monocotyledons vs dicots
+
+![](img/monocot-dict.jpg)
+
+
++++ 
+
+#### Monocotyledons vs dicots
+
+<div style="font-size:0.8em;">
+
+ | Monocot | Dicot
+ -- | -- | --
+ 
+ **Type** | fasciculated | herring-bone
+ **Seminals** | yes| no
+ **Adventitous roots** | yes | (yes)
+ **Secondary growth** | no | yes
+
+</div>
 +++ 
 
 #### Root production
