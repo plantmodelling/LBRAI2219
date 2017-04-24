@@ -254,6 +254,20 @@ local K upake- Non-additivity ot single (or multiple factors)
 ![](img/root-2.png)
 
 
+#### Root have simple radial and axial anatomy
+
+![](img/root-anatomy.png)
+
++++ 
+
+
+#### The root radial anatomy is relativelly conserved accross species
+
+
+![](img/crosssection.jpg)
+
++++ 
+
 
 +++?image=img/root-pop.png
 
@@ -269,16 +283,15 @@ local K upake- Non-additivity ot single (or multiple factors)
 
 +++ 
 
-#### Monocotyledons vs dicots
+#### Root nomenclature
 
 ![](img/monocot-dicot.jpg)
 
 
 +++ 
 
-#### Monocotyledons vs dicots
+#### Monocots vs dicots
 
-<div style="font-size:0.8em;">
 
 | | Monocot | Dicot|
 | ------- | -------- | -------- |
@@ -288,37 +301,29 @@ local K upake- Non-additivity ot single (or multiple factors)
 | **Secondary growth** | no | yes |
  
  
- </div>
 
 
 +++ 
 
-#### Monocotyledons 
+#### Monocots vs dicots 
 
 
-![](img/maize.jpg)|
-
-+++ 
-
-#### Dicots
+![](img/maize-lupin.jpg)
 
 
-![](img/lupin.jpg)
 
 +++
 
-#### Root have simple radial and axial anatomy
+#### Complex root architecture areise from a limited number of simple processes
 
-![](img/root-anatomy.png)
+1. Root production
+2. Root axial growth
+3. Root tropisms
+4. Root branching
 
-+++ 
 
++++
 
-#### Root have simple radial and axial anatomy
-
-![](img/crosssection.jpg)
-
-+++ 
 
 #### Root production
 
@@ -340,8 +345,6 @@ Simple process at the single root scale:
 
 ![](img/root-elongation.jpg)
 
-The meristem moves forward in the soil. After elongation, root cells stays in the same (x,y,z) position in soil.
-
 
 
 +++
@@ -358,14 +361,13 @@ The meristem moves forward in the soil. After elongation, root cells stays in th
 - Exudation
 - ...
 
-
-
+![Video](https://www.youtube.com/embed/o_dGBDjWW-A)
 
 +++
 
 ##### Growth as a function of diameter ?
 
-![](img/growth_diameter.png)
+![](img/growth_diameter.jpg)
 
 
 
@@ -411,6 +413,35 @@ The meristem moves forward in the soil. After elongation, root cells stays in th
 +++
 
 #### Branching
+
+
+![](img/orman.jpg)
+
+
+
++++
+
+#### The parent root can be divided in different regions
+
+
+- Basal zone
+- Branched zone
+- Apical zone
+
+![](img/branching.jpg)
+
+
+
++++
+
+#### LAUZ = f(growth)
+
+
+LAUZ = Length of Apical Unbranched Zone
+
+![](img/lauz.jpg)
+
+
 
 
 +++
