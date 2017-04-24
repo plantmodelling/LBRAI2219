@@ -41,7 +41,6 @@ Guillaume Lobet
 	- Interactions
 	- Plants vs animals
 	- Some basics about the soil
-- Single root anatomy 
 - Root systems architecture
 - Roots and water uptake
 	- How do root architecture shape the water uptake? 
@@ -237,38 +236,6 @@ local K upake- Non-additivity ot single (or multiple factors)
 
 
 
-<!---------------------------------------------------->
-<!--    	SECTION ABOUT THE SINGLE ROOTS ANATOMY   -->
-<!---------------------------------------------------->
-
-
----
-
-## Single root anatomy
-
-<span style="color:orange">Axial and radial anatomy of a single root</span>
-
-<span style="font-size:0.5em; color:gray"> <i class="fa fa-arrow-circle-o-down" aria-hidden="true"></i> Press down for details </span>
-
-
-![](img/root-1.png)
-
-
-+++
-
-#### Root have simple radial and axial anatomy
-
-![](img/root-anatomy.png)
-
-+++
-
-#### Root tip
-
-![](img/root-anatomy-1.png)
-
-+++
-
-
 
 
 <!---------------------------------------------------->
@@ -300,25 +267,6 @@ local K upake- Non-additivity ot single (or multiple factors)
 ![](img/crypsis.jpg)
 
 
-
-+++
-
-#### Root type nomenclature
-
-
-
-
-
-+++ 
-
-#### Monocotyledons vs dicots
-
-
-| Dicot (Lupin) | Monocot (Maize)|
-| -------- | -------- |
-| ![](img/lupin.jpg) | ![](img/maize.jpg)|
-
-
 +++ 
 
 #### Monocotyledons vs dicots
@@ -330,6 +278,7 @@ local K upake- Non-additivity ot single (or multiple factors)
 
 #### Monocotyledons vs dicots
 
+<div style="font-size:0.8em;">
 
 | | Monocot | Dicot|
 | ------- | -------- | -------- |
@@ -338,22 +287,83 @@ local K upake- Non-additivity ot single (or multiple factors)
 | **Adventitous roots** | yes | (yes) |
 | **Secondary growth** | no | yes |
  
+ 
+ </div>
+
+
++++ 
+
+#### Monocotyledons 
+
+
+![](img/maize.jpg)|
+
++++ 
+
+#### Dicots
+
+
+![](img/lupin.jpg)
+
++++
+
+#### Root have simple radial and axial anatomy
+
+![](img/root-anatomy.png)
+
++++ 
+
+
+#### Root have simple radial and axial anatomy
+
+![](img/crosssection.jpg)
 
 +++ 
 
 #### Root production
 
+![](img/root-production.jpg)
 
 
 +++
 
-##### Axial growth
+#### Axial growth
 
+
+Simple process at the single root scale:
+
+
+1. Cells production
+2. Cells division
+3. Cells elongation
+
+
+![](img/root-elongation.jpg)
+
+The meristem moves forward in the soil. After elongation, root cells stays in the same (x,y,z) position in soil.
+
+
+
++++
 
 ![Video](https://www.youtube.com/embed/IjGgt8rOg_0?t=13s)
 
 
++++ 
+
+##### The meristem is region of important metabolic activity
+
+- Water uptakre
+- Carbon consumption
+- Exudation
+- ...
+
+
+
+
 +++
+
+##### Growth as a function of diameter ?
 
 ![](img/growth_diameter.png)
 
@@ -361,17 +371,51 @@ local K upake- Non-additivity ot single (or multiple factors)
 
 +++
 
-##### Tropisms
+#### Tropisms
+
+![](img/tropism.jpg)
 
 
 +++
 
-##### Branching
+##### Different type of tropisms in roots
+
+- **Gravitropism**
+	- toward the center of the Earth
+- **Chemiotropism**
+	- toward an increasing concentration in a specific nutrient
+- **Hydrotropism**
+	- toward increasing water potential values
+
+
+- Tropisms changes with
+	- root types
+	- root ages
+	- environment conditions
+
++++
+
+##### Gravitropism = f(root age)
+
+![](img/gravistropism_maize.png)
+
 
 
 +++
 
-##### Integrations
+##### Gravitropism = f(soil temp)
+
+![](img/gravitropism_temp.jpg)
+
+
++++
+
+#### Branching
+
+
++++
+
+#### Integrations
 
 
 
