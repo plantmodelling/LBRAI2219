@@ -336,8 +336,9 @@ local K upake- Non-additivity ot single (or multiple factors)
 
 +++
 
-##### Root production = f(light interception)
+##### Root production = f(environment)
 
+Light interception, temeprature, soil strenght, nutrients, ...
 
 ![](img/production.png)
 
