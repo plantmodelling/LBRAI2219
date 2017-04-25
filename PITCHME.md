@@ -536,8 +536,6 @@ LAUZ = Length of Apical Unbranched Zone
 	- maintenance
 	- exudation
 
-- Need to know where and when them build them
-
 ![](img/carbon.png)
 
 +++
