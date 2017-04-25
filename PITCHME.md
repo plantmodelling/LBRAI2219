@@ -513,7 +513,7 @@ LAUZ = Length of Apical Unbranched Zone
 
 +++
 
-#### Different strategies
+##### Different strategies
 
 - Dicots
 	- [x,y] exploration -> lateral roots
@@ -528,33 +528,46 @@ LAUZ = Length of Apical Unbranched Zone
 
 +++
 
-#### Root have a cost
+##### Root have a cost
+
+- Different costs:
+	- production
+	- maintenance
+	- exudation
 
 - Need to know where and when them build them
-- Need to prioritise, balance needs
 
 ![](img/carbon.png)
 
-
-
 +++
 
-#### Root / shoot allocation
+##### Root / shoot allocation
 
 
 ![](img/allocation.png)
 
 
 
+
 +++
 
-#### Modelling root system architectures - 1
+##### Reducing maintenance cost -> Aerenchyma
+
+
+![](img/aerenchyma.png)
+
+
+
+
++++
+
+##### Modelling root system architectures - 1
 
 ![](img/root-model-1.png)
 
 +++
 
-#### Modelling root system architectures - 2
+##### Modelling root system architectures - 2
 
 ![](img/root-model-2.png)
 
