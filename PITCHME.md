@@ -579,7 +579,7 @@ LAUZ = Length of Apical Unbranched Zone
 ![](img/crootbox.png)
 
 
-[https://plantmodelling.shinyapps.io/shinyRootBox/](https://plantmodelling.shinyapps.io/shinyRootBox/)
+[https://bit.ly/crootbox](https://bit.ly/crootbox)
 
 #### Exercices
 
