@@ -329,7 +329,17 @@ local K upake- Non-additivity ot single (or multiple factors)
 
 +++
 
+##### In monocots, root production (order 0) depend on the node /tiller formation
+
 ![](img/root-production.jpg)
+
+
++++
+
+##### Root production = f(light interception)
+
+
+![](img/production.png)
 
 
 +++
@@ -365,7 +375,7 @@ Simple process at the single root scale:
 
 ##### The meristem is region of important metabolic activity
 
-- Water uptakre
+- Water uptake
 - Carbon consumption
 - Exudation
 - ...
@@ -414,10 +424,7 @@ Simple process at the single root scale:
 	- toward an increasing concentration in a specific nutrient
 - **Hydrotropism**
 	- toward increasing water potential values
-
-
-
-- Tropisms changes with
+- Tropisms change with
 	- root types
 	- root ages
 	- environment conditions
@@ -504,6 +511,40 @@ LAUZ = Length of Apical Unbranched Zone
 
 ## Integrations
 
++++
+
+#### Different strategies
+
+- Dicots
+	- [x,y] exploration -> lateral roots
+	- [z] exploration -> primary axis
+	- secondary growth -> large number of laterals
+	- Axes stop growing -> stay alive
+- Monocots
+	- [x,y,z] exploration -> primary axis (nodals)
+	- no secondary growth -> limited number of laterals
+	- Axes stop growing -> reduce the branching region
+	- nodal root production stops at flowering
+
++++
+
+#### Root have a cost
+
+- Need to know where and when them build them
+- Need to prioritise, balance needs
+
+![](img/carbon.png)
+
+
+
++++
+
+#### Root / shoot allocation
+
+
+![](img/allocation.png)
+
+
 
 +++
 
@@ -527,7 +568,12 @@ LAUZ = Length of Apical Unbranched Zone
 
 [https://plantmodelling.shinyapps.io/shinyRootBox/](https://plantmodelling.shinyapps.io/shinyRootBox/)
 
+#### Exercices
 
+1. Choose a plant species
+1. Maxime exploration and reduce cost
+2. Maxime uptake of a top-layer, immobile ressource
+3. Maxime uptake of a mobile ressource
 
 
 
