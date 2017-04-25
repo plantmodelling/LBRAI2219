@@ -525,6 +525,7 @@ LAUZ = Length of Apical Unbranched Zone
 	- [x,y,z] exploration -> primary axis (nodals)
 	- no secondary growth -> limited number of laterals
 	- Axes stop growing -> reduce the branching region
+	- post-embryonic root system much more important
 	- nodal root production stops at flowering
 
 +++
