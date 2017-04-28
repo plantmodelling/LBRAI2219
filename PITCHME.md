@@ -725,7 +725,7 @@ LAUZ = Length of Apical Unbranched Zone
 
 +++?image=img/xylem.jpg
 
-### Depends on xylem development
+## Depends on xylem development
 
 
 +++
