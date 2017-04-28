@@ -629,7 +629,9 @@ LAUZ = Length of Apical Unbranched Zone
 ### Water flow in the soil-plant-atmosphere continuum
 
 - Passive process
-- Driven by water potential differences (Atmosphere <<< Plant < Soil)
+- Driven by water potential differences 
+`(\Psi_{atmosphere} <<< \Psi_{leaf} < \Psi_{root} < \Psi_{soil})$$`
+
 - Activelly regulated in mutliple sites
 	- leaf
 	- xylem vessels
