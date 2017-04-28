@@ -205,12 +205,12 @@ local K upake- Non-additivity ot single (or multiple factors)
 ### The soil is complex medium
 
 ![](img/soil-triangle.png)
-
 +++
 
 ### Soil retention curve
 
 ![](img/soil-retention.bmp)
+<small>Source: <a href="http://www.tankonyvtar.hu/en/tartalom/tamop425/0032_talajtan/ch07s05.html">http://www.tankonyvtar.hu/en/tartalom/tamop425/0032_talajtan/ch07s05.html</a></small>
 
 
 +++
@@ -218,6 +218,7 @@ local K upake- Non-additivity ot single (or multiple factors)
 ### Soil conductivity curve
 
 ![](img/soil-conductivity.jpg)
+
 
 
 +++
@@ -296,8 +297,8 @@ local K upake- Non-additivity ot single (or multiple factors)
 | | Monocot | Dicot|
 | ------- | -------- | -------- |
 | **Type** | fasciculated | herring-bone|
-| **Seminals** | yes | no |
-| **Adventitous roots** | yes | (yes) |
+| **Basal roots** | yes | (yes) |
+| **Shoot borne roots** | yes | no |
 | **Secondary growth** | no | yes |
  
  
@@ -362,15 +363,9 @@ Simple process at the single root scale:
 
 ![](img/root-elongation.jpg)
 
-
-
 +++
 
 ![Video](https://www.youtube.com/embed/IjGgt8rOg_0?t=13s)
-
-
-
-
 
 +++ 
 
@@ -413,6 +408,7 @@ Simple process at the single root scale:
 ##### Tropisms = growth re-direction
 
 ![](img/tropism.jpg)
+<small>Source: <a href="http://csls-text3.c.u-tokyo.ac.jp/active/22_04.html">http://csls-text3.c.u-tokyo.ac.jp/active/22_04.html</a></small>
 
 
 +++
@@ -467,6 +463,12 @@ Simple process at the single root scale:
 ##### Lateral roots emerge with a given angle
 
 ![](img/angles.png)
+
+
+##### Lateral roots emerge with a given density
+
+![](img/postma-density.jpg)
+
 
 
 
@@ -617,10 +619,48 @@ LAUZ = Length of Apical Unbranched Zone
 
 +++
 
-#### Root process and water uptake
+#### Water loss is an obligatory cost
+
+
+
+
++++ 
+
+### Water flow in the soil-plant-atmosphere continuum
+
+- Passive process
+- Driven by water potential differences (Atmosphere <<< Plant < Soil)
+- Activelly regulated in mutliple sites
+	- leaf
+	- xylem vessels
+	- root
+
+
++++
+
+### Water flow in the soil-plant-atmosphere continuum
+
+![](img/water-spac.jpg)
+
+<small>Lobet, G., Couvreur, V., Meunier, F., Javaux, M., and Draye, X. (2014). Plant Water Uptake in Drying Soils. Plant Physiol. 164: 1619–1627.</small>
+
+
++++
+
+### Water flow in the soil-plant-atmosphere continuum
+
+![](img/water_spac.jpg)
+
+
++++
+
+
+#### Root development and water uptake
 
 ![](img/root-age.png)
 
+
++++
 
 
 #### Water flow trought the root cylinder
@@ -628,6 +668,7 @@ LAUZ = Length of Apical Unbranched Zone
 ![](img/water_radial.png)
 
 +++
+
 
 #### Three pathways
 
@@ -646,29 +687,33 @@ LAUZ = Length of Apical Unbranched Zone
 
 +++
 
+#### Apoplastic barriers development
 
+![](img/apoplastic_barriers.jpg)
 
++++
 
+#### Water channel (aquaporins) are precisely localed
 
+![](img/aqp_localisation.png)
 
++++
 
+#### Composite pathway
 
+![](img/mecha-1.png)
 
++++
 
+#### Water flow trought the root cylinder
 
-<!---------------------------------------------------->
-<!--    	SECTION ABOUT THE INTERACTIONS   -->
-<!---------------------------------------------------->
+![](img/mecha.jpg)
+[http://bit.ly/rootmecha](http://bit.ly/rootmecha)
 
----
-
-## How do water uptake affect root architecture?
 
 
 
 +++
-
-#### Hydro-patterning
 
 
 
