@@ -630,6 +630,7 @@ LAUZ = Length of Apical Unbranched Zone
 
 - Passive process
 - Driven by water potential differences 
+
 `(\Psi_{atmosphere} <<< \Psi_{leaf} < \Psi_{root} < \Psi_{soil})$$`
 
 - Activelly regulated in mutliple sites
