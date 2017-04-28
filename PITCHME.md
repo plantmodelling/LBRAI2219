@@ -665,6 +665,10 @@ LAUZ = Length of Apical Unbranched Zone
 
 +++
 
+## Radial flow of water
+
++++
+
 
 #### Water flow trought the root cylinder
 
@@ -702,21 +706,68 @@ LAUZ = Length of Apical Unbranched Zone
 
 +++
 
-#### Composite pathway
+#### Modelling water flow trought the root cylinder
 
 ![](img/mecha-1.png)
 
 +++
 
-#### Water flow trought the root cylinder
+#### Modelling water flow trought the root cylinder
 
 ![](img/mecha.jpg)
 [http://bit.ly/rootmecha](http://bit.ly/rootmecha)
 
 
++++
+
+
+## Axia flow of water
 
 
 +++
+#### Cavitation refilling
+
+![](img/embolism_refilling.jpg)
+
+<small>Lobet, G. et al. (2013) Root water uptake and water flow in the soil-root domain. In Plant Roots: The Hidden Half</small>
+
+
+
++++
+#### Xylem succeptibility curve
+
+![](img/xylem_succeptibility_curve.jpg)
+
+<small>Li, Y. et al. (2009) Hydraulic conductance and vulnerability to cavitation in corn (Zea mays L.) hybrids of differing drought resistance. Environ. Exp. Bot. 66, 341–346</small>
+
+
+
++++
+
+## Water uptake dynamics
+
++++
+
+
+#### Influence of the soil type
+
+![](img/soil_vs_uptake.jpg)
+
++++
+
+#### Influence of the root architecture
+
+
+![](img/archi_vs_uptake.jpg)
+
++++
+
+#### Influence of the root hydraulic properties
+
++++ 
+
+
+#### Compensatory uptake
 
 
 
