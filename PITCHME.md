@@ -702,17 +702,17 @@ LAUZ = Length of Apical Unbranched Zone
 
 #### Water channel (aquaporins) are precisely localed
 
-![](img/aqp_localisation.png)
+![](img/aqp_localisation.jpg)
 
 +++
 
-#### Modelling water flow trought the root cylinder
+#### Modelling radial water flow
 
 ![](img/mecha-1.png)
 
 +++
 
-#### Modelling water flow trought the root cylinder
+#### Modelling radial water flow
 
 ![](img/mecha.jpg)
 [http://bit.ly/rootmecha](http://bit.ly/rootmecha)
@@ -729,7 +729,6 @@ LAUZ = Length of Apical Unbranched Zone
 
 ![](img/embolism_refilling.jpg)
 
-<small>Lobet, G. et al. (2013) Root water uptake and water flow in the soil-root domain. In Plant Roots: The Hidden Half</small>
 
 
 
@@ -738,7 +737,6 @@ LAUZ = Length of Apical Unbranched Zone
 
 ![](img/xylem_succeptibility_curve.jpg)
 
-<small>Li, Y. et al. (2009) Hydraulic conductance and vulnerability to cavitation in corn (Zea mays L.) hybrids of differing drought resistance. Environ. Exp. Bot. 66, 341–346</small>
 
 
 
@@ -748,6 +746,36 @@ LAUZ = Length of Apical Unbranched Zone
 
 +++
 
+### Water uptake follows a downward movement
+
+![](img/water-uptake-1.jpg)
+
+
++++
+
+#### Using models to understand root water uptake
+
+Explicit root architecture into a 3D soil domain
+
+![](img/rswms_structure.jpg)
+
++++
+
+#### Hydraulic properties distribution
+
+Hydraulic properties are added on top of the architecture
+
+![](img/conductivity_distributions.jpg)
+
++++
+
+#### Using models to understand root water uptake
+
+Models give us access to hidden variables
+
+![](img/rswms.jpg)
+
++++
 
 #### Influence of the soil type
 
@@ -757,17 +785,32 @@ LAUZ = Length of Apical Unbranched Zone
 
 #### Influence of the root architecture
 
-
 ![](img/archi_vs_uptake.jpg)
 
 +++
 
 #### Influence of the root hydraulic properties
 
+![](img/k_vs_uptake.jpg)
+
 +++ 
 
-
 #### Compensatory uptake
+When the water uptake is not proportional to the root length density
+
+![](img/rswms.jpg)
+
++++
+
+#### Hydraulic lift
+
+When transpiration is low (at night), water can flow through the plant, from wet to dry soil patches. 
+
+![](img/hydraulic_lift.gif)
+
+
++++
+
 
 
 
