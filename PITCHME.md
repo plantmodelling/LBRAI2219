@@ -626,7 +626,7 @@ LAUZ = Length of Apical Unbranched Zone
 
 +++ 
 
-### Water flow in the soil-plant-atmosphere continuum
+#### Water flow in the soil-plant-atmosphere continuum
 
 - Passive process
 - Driven by water potential differences 
@@ -641,7 +641,7 @@ LAUZ = Length of Apical Unbranched Zone
 
 +++
 
-### Water flow in the soil-plant-atmosphere continuum
+#### Water flow in the soil-plant-atmosphere continuum
 
 ![](img/water-spac.jpg)
 
@@ -650,7 +650,7 @@ LAUZ = Length of Apical Unbranched Zone
 
 +++
 
-### Water flow in the soil-plant-atmosphere continuum
+#### Water flow in the soil-plant-atmosphere continuum
 
 ![](img/water_spac.jpg)
 
