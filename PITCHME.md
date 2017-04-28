@@ -723,6 +723,10 @@ LAUZ = Length of Apical Unbranched Zone
 
 ## Axia flow of water
 
++++?image=img/xylem.jpg
+
+### Depends on xylem development
+
 
 +++
 #### Cavitation refilling
@@ -753,9 +757,7 @@ LAUZ = Length of Apical Unbranched Zone
 
 +++
 
-#### Using models to understand root water uptake
-
-Explicit root architecture into a 3D soil domain
+#### R-SWMS
 
 ![](img/rswms_structure.jpg)
 
@@ -763,15 +765,12 @@ Explicit root architecture into a 3D soil domain
 
 #### Hydraulic properties distribution
 
-Hydraulic properties are added on top of the architecture
-
 ![](img/conductivity_distributions.jpg)
 
 +++
 
-#### Using models to understand root water uptake
+#### Models to understand water uptake
 
-Models give us access to hidden variables
 
 ![](img/rswms.jpg)
 
@@ -796,7 +795,6 @@ Models give us access to hidden variables
 +++ 
 
 #### Compensatory uptake
-When the water uptake is not proportional to the root length density
 
 ![](img/rswms.jpg)
 
@@ -804,7 +802,6 @@ When the water uptake is not proportional to the root length density
 
 #### Hydraulic lift
 
-When transpiration is low (at night), water can flow through the plant, from wet to dry soil patches. 
 
 ![](img/hydraulic_lift.gif)
 
