@@ -723,7 +723,7 @@ LAUZ = Length of Apical Unbranched Zone
 
 ## Axia flow of water
 
-+++?image=img/xylem.jpg
++++?image=img/xylem1.jpg
 
 ## Depends on xylem development
 
