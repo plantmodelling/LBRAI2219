@@ -621,7 +621,9 @@ LAUZ = Length of Apical Unbranched Zone
 
 #### Water loss is an obligatory cost
 
+`$$ maize production = 10^4 l / year$$`
 
+10% only used for the plant growth and development
 
 
 +++ 
@@ -644,8 +646,6 @@ LAUZ = Length of Apical Unbranched Zone
 #### Water flow in the soil-plant-atmosphere continuum
 
 ![](img/water-spac.jpg)
-
-<small>Lobet, G., Couvreur, V., Meunier, F., Javaux, M., and Draye, X. (2014). Plant Water Uptake in Drying Soils. Plant Physiol. 164: 1619–1627.</small>
 
 
 +++
@@ -736,13 +736,6 @@ LAUZ = Length of Apical Unbranched Zone
 ## Depends on xylem development
 
 
-+++
-#### Cavitation refilling
-
-![](img/embolism_refilling.jpg)
-
-
-
 
 +++
 #### Xylem succeptibility curve
@@ -750,7 +743,10 @@ LAUZ = Length of Apical Unbranched Zone
 ![](img/xylem_succeptibility_curve.jpg)
 
 
++++
+#### Cavitation refilling
 
+![](img/embolism_refilling.jpg)
 
 +++
 
