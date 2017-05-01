@@ -684,7 +684,7 @@ LAUZ = Length of Apical Unbranched Zone
 	- water potential differences
 	- high transpiration (day)
 
-- Symplatic pathway
+- Symplastic pathway
 	- diffusion
 	- osmotic differences 
 	- low transpiration (night)
@@ -700,9 +700,17 @@ LAUZ = Length of Apical Unbranched Zone
 
 +++
 
+#### Aquaporin as water channels
+
+![](img/aqp_effect.jpg)
+
++++
+
 #### Water channel (aquaporins) are precisely localed
 
 ![](img/aqp_localisation.jpg)
+
+
 
 +++
 
