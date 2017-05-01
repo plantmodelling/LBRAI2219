@@ -619,9 +619,10 @@ LAUZ = Length of Apical Unbranched Zone
 
 +++
 
-#### Water loss is an obligatory cost
+## Water loss is an obligatory cost
 
-`$$ maize production = 10^4 l / year$$`
+`$$ Production_{maize} = 10^4 l / year$$`
+
 
 10% only used for the plant growth and development
 
@@ -635,7 +636,7 @@ LAUZ = Length of Apical Unbranched Zone
 
 `$$\Psi_{atmosphere} <<< \Psi_{leaf} < \Psi_{root} < \Psi_{soil}$$`
 
-- Activelly regulated in mutliple sites
+- Activelly regulated in multiple sites
 	- leaf
 	- xylem vessels
 	- root
@@ -706,7 +707,7 @@ LAUZ = Length of Apical Unbranched Zone
 
 +++
 
-#### Water channel (aquaporins) are precisely localed
+#### Aquaporins are precisely located
 
 ![](img/aqp_localisation.jpg)
 
@@ -752,9 +753,23 @@ LAUZ = Length of Apical Unbranched Zone
 
 ## Water uptake dynamics
 
+
 +++
 
-### Water uptake follows a downward movement
+#### Neutron Radiography + Deuterated water
+
+![](img/carminati.jpg)
+
++++
+
+#### Electrical Resistivity Tomography
+
+![](img/beff.jpg)
+
+
++++
+
+#### Light transmission imaging
 
 ![](img/water-uptake-1.jpg)
 
