@@ -739,6 +739,12 @@ LAUZ = Length of Apical Unbranched Zone
 
 
 +++
+#### Xylem  = water transport
+
+![](img/xylem_yield.jpg)
+
+
++++
 #### Xylem succeptibility curve
 
 ![](img/xylem_succeptibility_curve.jpg)
@@ -756,15 +762,10 @@ LAUZ = Length of Apical Unbranched Zone
 
 +++
 
-#### Neutron Radiography + Deuterated water
+#### Light transmission imaging
 
-![](img/carminati.jpg)
+![](img/lti.jpg)
 
-+++
-
-#### Electrical Resistivity Tomography
-
-![](img/beff.jpg)
 
 
 +++
@@ -772,6 +773,13 @@ LAUZ = Length of Apical Unbranched Zone
 #### Light transmission imaging
 
 ![](img/water-uptake-1.jpg)
+
+
++++
+
+#### Electrical Resistivity Tomography
+
+![](img/beff.jpg)
 
 
 +++
@@ -823,6 +831,30 @@ LAUZ = Length of Apical Unbranched Zone
 
 
 ![](img/hydraulic_lift.gif)
+
+
+
++++?image=img/drought.jpg
+
+## Water efficient plants
+
+
++++
+
+
+#### Steep, deep and cheap
+
+
+![](img/steep_deep.jpg)
+
+
++++
+
+
+#### In some situation, temporal patterns are important
+
+
+![](img/conservative_water.jpg)
 
 
 +++
