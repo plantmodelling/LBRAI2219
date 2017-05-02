@@ -822,6 +822,13 @@ LAUZ = Length of Apical Unbranched Zone
 
 ![](img/rswms.jpg)
 
+
++++ 
+
+#### Compensatory uptake
+
+![](img/lti_rswms.jpg)
+
 +++
 
 #### Hydraulic lift
