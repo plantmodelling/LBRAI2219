@@ -727,14 +727,11 @@ LAUZ = Length of Apical Unbranched Zone
 [http://bit.ly/rootmecha](http://bit.ly/rootmecha)
 
 
-+++
++++?image=img/xylem1.jpg
 
 
 ## Axia flow of water
 
-+++?image=img/xylem1.jpg
-
-## Depends on xylem development
 
 
 
@@ -860,7 +857,10 @@ LAUZ = Length of Apical Unbranched Zone
 +++
 
 
+#### Anyn trait can confer drought resistance
 
+
+![](img/any_drought.jpg)
 
 
 
