@@ -43,8 +43,8 @@ Guillaume Lobet
 	- Some basics about the soil
 - Root systems architecture
 - Roots and water uptake
-	- How do root architecture shape the water uptake? 
-	- How do the water content shape the root architecture?
+	- How do roots shape the water uptake? 
+	- How do the water content shape the roots?
 
 <span style="font-size:0.5em; color:gray"> <i class="fa fa-th" aria-hidden="true"></i> Press "o" for overview  **|**  <i class="fa fa-expand" aria-hidden="true"></i> Press "f" for full screen </span>
 
@@ -602,13 +602,14 @@ LAUZ = Length of Apical Unbranched Zone
 
 
 
-<!---------------------------------------------------->
-<!--    	SECTION ABOUT THE INTERACTIONS   -->
-<!---------------------------------------------------->
+
+<!------------------------------------------------------------------------>
+<!--    	SECTION ABOUT THE EFFECT OF ROOTS ON THE SOIL WATER CONTENT   -->
+<!------------------------------------------------------------------------>
 
 ---
 
-## How do root architecture shape water uptake?
+## How do roots shape water uptake?
 
 <span style="color:orange">About root hydraulic architecture, root density profile and drought</span>
 
@@ -870,5 +871,75 @@ LAUZ = Length of Apical Unbranched Zone
 ![](img/any_drought.jpg)
 
 
+---
+
+
+
+<!------------------------------------------------------------------------>
+<!--    	SECTION ABOUT THE EFFECT OF ROOTS ON THE SOIL WATER CONTENT   -->
+<!------------------------------------------------------------------------>
+
+---
+
+## How do the water content shape the roots?
+
+<span style="color:orange">About tropisms, soil strength and hydropatterning</span>
+
+<span style="font-size:0.5em; color:gray"> <i class="fa fa-arrow-circle-o-down" aria-hidden="true"></i> Press down for details </span>
+
+![](img/microct_root.jpg)
+
+
++++
+
+
+#### Water stress suppress crown root formation in poaceas
+
+
+![](img/crown_water_2.jpg)
+
+
++++
+
+
+#### Rewatering can induce a crown root formation
+
+
+![](img/crown_water_1.jpg)
+
+
++++
+
+
+#### Hydropatterning
+
+
+![](img/hydropatterning_1.jpg)
+
+
++++
+
+
+#### Hydropatterning
+
+
+![](img/hydropatterning_2.jpg)
+
++++
+
+
+#### Soil compaction
+
+
+![](img/soil_compaction.jpg)
+
+
++++
+
+
+#### Growth in low water potential
+
+
+![](img/growth_water_pot_2.jpg)
 
 
