@@ -871,7 +871,9 @@ LAUZ = Length of Apical Unbranched Zone
 ![](img/any_drought.jpg)
 
 
----
+
+
+
 
 
 
@@ -881,13 +883,18 @@ LAUZ = Length of Apical Unbranched Zone
 
 ---
 
-## How do the water content shape the roots?
+## How do the soil shape the roots?
 
 <span style="color:orange">About tropisms, soil strength and hydropatterning</span>
 
 <span style="font-size:0.5em; color:gray"> <i class="fa fa-arrow-circle-o-down" aria-hidden="true"></i> Press down for details </span>
 
 ![](img/microct_root.jpg)
+
+
++++
+
+## Water
 
 
 +++
@@ -925,13 +932,7 @@ LAUZ = Length of Apical Unbranched Zone
 
 ![](img/hydropatterning_2.jpg)
 
-+++
 
-
-#### Soil compaction
-
-
-![](img/soil_compaction.jpg)
 
 
 +++
@@ -943,3 +944,56 @@ LAUZ = Length of Apical Unbranched Zone
 ![](img/growth_water_pot_2.jpg)
 
 
+
+
+
++++
+
+## Soil strength
+
++++
+
+
+#### Soil compaction
+
+
+![](img/soil_compaction.jpg)
+
++++
+
+
+#### Soil compaction
+
+
+![](img/compaction.jpg)
+
+
+
+
+
+
+
+
++++
+
+## Nutrients
+
+
+
+
+
+
+
+
++++?image=img/temperatures.jpg
+
+## Temperature
+
+
++++
+
+
+#### Optimal temperature for root and shoot
+
+
+![](img/effect_temperature.jpg)
