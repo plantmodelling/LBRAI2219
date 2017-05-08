@@ -1045,6 +1045,11 @@ LAUZ = Length of Apical Unbranched Zone
 
 ![](img/drew_nutrient.jpg)
 
++++
+
+#### Example of multiple nutrient supply on root architecture
+
+![](img/kellermeyer.png)
 
 
 
@@ -1052,6 +1057,14 @@ LAUZ = Length of Apical Unbranched Zone
 
 ## Temperature
 
+
++++
+
+
+#### Temperature constant below 10 cm depth
+
+
+![](img/soil_temp.gif)
 
 +++
 
