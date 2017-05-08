@@ -44,7 +44,7 @@ Guillaume Lobet
 - Root systems architecture
 - Roots and water uptake
 	- How do roots shape the water uptake? 
-	- How do the water content shape the roots?
+- How does the soil shape the roots?
 
 <span style="font-size:0.5em; color:gray"> <i class="fa fa-th" aria-hidden="true"></i> Press "o" for overview  **|**  <i class="fa fa-expand" aria-hidden="true"></i> Press "f" for full screen </span>
 
@@ -909,7 +909,7 @@ LAUZ = Length of Apical Unbranched Zone
 +++
 
 
-#### Rewatering can induce a crown root formation
+#### Rewatering can trigger crown root formation
 
 
 ![](img/crown_water_1.jpg)
@@ -934,6 +934,18 @@ LAUZ = Length of Apical Unbranched Zone
 
 
 
++++
+
+
+#### Hydropatterning
+
+![](img/robbins.jpg)
+
+[https://nrobbins.shinyapps.io/20161105_hydropatterning_app/]()
+
+
+
+
 
 +++
 
@@ -950,6 +962,14 @@ LAUZ = Length of Apical Unbranched Zone
 +++
 
 ## Soil strength
+
++++
+
+
+#### Compaction increase with depth
+
+
+![](img/depth_penetrometer.jpg)
 
 +++
 
