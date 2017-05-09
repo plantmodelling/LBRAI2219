@@ -940,6 +940,15 @@ LAUZ = Length of Apical Unbranched Zone
 +++
 
 
+#### Less crown root ?= water conservation
+
+
+![](img/sebastian.jpg)
+
+
++++
+
+
 #### Rewatering can trigger crown root formation
 
 
