@@ -946,6 +946,33 @@ LAUZ = Length of Apical Unbranched Zone
 ![](img/crown_water_1.jpg)
 
 
+
++++
+
+
+#### Growth in low water potential
+
+
+![](img/growth_water_pot_2.jpg)
+
+
+
++++
+
+
+#### Hydrotropism
+
+
+![](img/hydrotropism_2.jpg)
+
++++
+
+#### Hydrotropism
+
+
+![](img/hydrotropism_1.jpg)
+
+
 +++
 
 
@@ -978,15 +1005,6 @@ LAUZ = Length of Apical Unbranched Zone
 
 
 
-+++
-
-
-#### Growth in low water potential
-
-
-![](img/growth_water_pot_2.jpg)
-
-
 
 
 
@@ -997,7 +1015,7 @@ LAUZ = Length of Apical Unbranched Zone
 +++
 
 
-#### Compaction increase with depth
+#### Compaction increases with depth
 
 
 ![](img/depth_penetrometer.jpg)
@@ -1005,7 +1023,7 @@ LAUZ = Length of Apical Unbranched Zone
 +++
 
 
-#### Compaction reduce root growth
+#### Compaction reduces root growth
 
 
 ![](img/soil_compaction.jpg)
@@ -1013,7 +1031,7 @@ LAUZ = Length of Apical Unbranched Zone
 +++
 
 
-#### Compaction reduce root growth
+#### Compaction reduces root growth
 
 
 ![](img/compaction.jpg)
@@ -1037,6 +1055,11 @@ LAUZ = Length of Apical Unbranched Zone
 ![](img/gruber.jpg)
 
 
++++
+
+#### Example of multiple nutrient supply on root architecture
+
+![](img/kellermeyer.png)
 
 
 +++
@@ -1045,11 +1068,6 @@ LAUZ = Length of Apical Unbranched Zone
 
 ![](img/drew_nutrient.jpg)
 
-+++
-
-#### Example of multiple nutrient supply on root architecture
-
-![](img/kellermeyer.png)
 
 
 
