@@ -1100,3 +1100,42 @@ LAUZ = Length of Apical Unbranched Zone
 
 
 ![](img/effect_temperature.jpg)
+
+
+
+
+
+
+
+
+
+<!------------------------------------------------------------------------>
+<!--    	SECTION ABOUT THE EFFECT OF ROOTS ON THE SOIL WATER CONTENT   -->
+<!------------------------------------------------------------------------>
+
+---
+
+## How can we observe root
+
+<span style="color:orange">About phenotyping and experimental setups</span>
+
+<span style="font-size:0.5em; color:gray"> <i class="fa fa-arrow-circle-o-down" aria-hidden="true"></i> Press down for details </span>
+
+![](img/microct_root.jpg)
+
+
++++
+
+#### Phenotyping platforms
+
+![](img/root_phenotyping_techniques.png)
+
++++
+
+![Video](https://www.youtube.com/embed/khgRzxJYp7A?t=13s)
+
++++
+
+
+![Video](https://www.youtube.com/embed/eImg9IobXGE?t=13s)
+
