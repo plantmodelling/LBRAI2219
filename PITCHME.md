@@ -1193,6 +1193,19 @@ LAUZ = Length of Apical Unbranched Zone
 
 +++
 
+#### GLO-Root
+![](img/gloroot.jpg)
+
+
+
++++
+
+#### GLO-Root
+![](img/gloroot-1.jpg)
+
+
++++
+
 #### X-Ray / MRI
 
 ![](img/ct.jpg)
