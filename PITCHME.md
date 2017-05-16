@@ -42,9 +42,9 @@ Guillaume Lobet
 	- Plants vs animals
 	- Some basics about the soil
 - Root systems architecture
-- Roots and water uptake
-	- How do roots shape the water uptake? 
-- How does the soil shape the roots?
+- How do roots shape the water uptake ? 
+- How does the soil shape the roots ?
+- How can we observe roots ?
 
 <span style="font-size:0.5em; color:gray"> <i class="fa fa-th" aria-hidden="true"></i> Press "o" for overview  **|**  <i class="fa fa-expand" aria-hidden="true"></i> Press "f" for full screen </span>
 
@@ -1115,13 +1115,13 @@ LAUZ = Length of Apical Unbranched Zone
 
 ---
 
-## How can we observe root
+## How can we observe roots?
 
 <span style="color:orange">About phenotyping and experimental setups</span>
 
 <span style="font-size:0.5em; color:gray"> <i class="fa fa-arrow-circle-o-down" aria-hidden="true"></i> Press down for details </span>
 
-![](img/microct_root.jpg)
+![](img/root_bw.jpg)
 
 
 +++
@@ -1132,10 +1132,97 @@ LAUZ = Length of Apical Unbranched Zone
 
 +++
 
+#### Petri dishes
+![](img/petri.jpg)
+
++++
+
+#### Pouches
+![](img/pouches.jpg)
+
++++
+
+#### Gellan Gum
+![](img/gellan.jpg)
+
++++
+
+#### Aeroponics
+![](img/aeroponics.jpg)
+
++++
+
+#### Aeroponics
+
+![Video](https://www.youtube.com/embed/eImg9IobXGE?t=13s)
+
+
++++
+
+#### Hydroponics
+![](img/hydroponic.jpg)
+
++++
+
+#### Rhizoponics
+![](img/rhizoponics.jpg)
+
+
++++
+
+#### Transparent soil
+![](img/transparent.jpg)
+
++++
+
+#### Transparent soil
+![](img/transparent-1.jpg)
+
+
++++
+
+#### Rhizotrons
+![](img/rhizotron-1.jpg)
+
+
++++
+
+#### Rhizotrons
+![](img/rhizotron-2.jpg)
+
+
++++
+
+#### X-Ray / MRI
+
+![](img/ct.jpg)
+
++++
+
+#### X-Ray / MRI
+
 ![Video](https://www.youtube.com/embed/khgRzxJYp7A?t=13s)
 
 +++
 
+#### Shovelomics
+![](img/shovelomics.jpg)
 
-![Video](https://www.youtube.com/embed/eImg9IobXGE?t=13s)
+
++++
+
+#### Trenches
+
+![](img/maize-field.JPG)
+
+
+
+
+
+---
+
+
+## Course **evaluation**: 
+
+<i class="fa fa-link" aria-hidden="true"></i> http://bit.ly/LBRES2106-eval
 
