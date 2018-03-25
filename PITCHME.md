@@ -54,13 +54,17 @@ Use the Suggestion Mode
 
 +++
 
-###  Contribution de l'activité au référentiel AA
+###  Contribution de l'activité au référentiel AA [1/2]
 
 - Connaître et comprendre un socle de savoirs scientifiques dans le domaine des ressources en eaux et en sols (M1.2)
 
 - Mobiliser des savoirs en ingénierie de manière critique face à un problème complexe dans le domaine de l'environnement, en intégrant des processus à différentes échelles allant du minéral et de l'organisme vivant jusqu'au paysage (M1.4, M2.4)
 
 - Résumer un état des connaissances sur une problématique de recherche complexe en continuité avec ses choix de spécialisation (M3.1)
+
++++
+
+###  Contribution de l'activité au référentiel AA [2/2]
 
 - Analyse selon une approche systémique et multidisciplinaire une problématique complexe d'ingénierie dans le domaine de l'environnement (M4.3)
 
@@ -69,13 +73,17 @@ Use the Suggestion Mode
  
 +++
 
-### Formulation spécifique pour cette activité des AA du programme
+### Formulation spécifique pour cette activité des AA du programme [1/2]
 
 A la fin de cette activité, l'étudiant est capable :
 
 - d'appréhender les interactions sol-plante à l'échelle du champ cultivé pour mieux gérer le système de culture et ses impacts sur le sol et la plante
 
 - de percevoir la dynamique des interactions sol-plante, en référence au fonctionnement des sols cultivés et aux stratégies d'exploration et d'exploitation du sol par la plante
+
++++
+
+### Formulation spécifique pour cette activité des AA du programme [2/2]
 
 - d'interpréter les réponses de la plante à son environnement et aux intrants, et l'impact du système de culture sur le sol
 
@@ -97,9 +105,7 @@ A la fin de cette activité, l'étudiant est capable :
 ![](img/roots.png)
 
 
-## Water in the world
-
-![](img/world_water_2018.png)
++++?image=img/world_water_2018.png
 
 +++
 
