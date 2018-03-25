@@ -104,22 +104,25 @@ A la fin de cette activité, l'étudiant est capable :
 
 ![](img/roots.png)
 
++++
 
-+++?image=img/world_water_2018.png
+### Water in the world
+
+![](img/world_water_2018.png)
 
 +++
 
-## Status in 2040
+### Status in 2040
 
 ![](img/world_water_2040.png)
 +++
 
-## Status in Europe in 2040
+### Status in Europe in 2040
 
 ![](img/europe_water_2040.png)
 +++
 
-## Increase in variability
+### Increase in variability
 
 
 ![](img/world_variability.png)
