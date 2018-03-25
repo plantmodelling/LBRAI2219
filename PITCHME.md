@@ -89,6 +89,12 @@ A la fin de cette activité, l'étudiant est capable :
 
 - d'envisager la gestion de la fertilité dans un cadre systémique respectueux de l'environnement, via l'adoption d'itinéraires techniques ad hoc et le monitoring du système de culture
 
++++
+
+### Cursus plante 
+
+![](img/cursus.png)
+
 
 <!---------------------------------------------------->
 <!--    	INTRODUCTION   -->
