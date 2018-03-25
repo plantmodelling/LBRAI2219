@@ -24,13 +24,20 @@ Guillaume Lobet
 	- <i class="fa fa-link" aria-hidden="true"></i> http://bit.ly/LBRES2106
 
 - Collaborative **summary**
-	- everybody can take notes in a Google Doc
+	- Everybody can take notes in a Google Doc
 	- I will correct the summary after each course
-	-  <i class="fa fa-link" aria-hidden="true"></i> http://bit.ly/LBRES2106-summary
+	-  <i class="fa fa-link" aria-hidden="true"></i> http://bit.ly/LBRES2106-2018
 
 - Course **evaluation**: 
-	- <i class="fa fa-link" aria-hidden="true"></i> http://bit.ly/LBRES2106-eval
+	- <i class="fa fa-link" aria-hidden="true"></i> http://bit.ly/LBRES2106-eval-2018
 
+--- 
+
+## Editing in Google Docs
+
+Use the Suggestion Mode
+
+![](img/gdocs.png)
 
 --- 
 
@@ -38,9 +45,6 @@ Guillaume Lobet
 
 
 - Introduction
-	- Interactions
-	- Plants vs animals
-	- Some basics about the soil
 - Root systems architecture
 - How do roots shape the water uptake ? 
 - How does the soil shape the roots ?
@@ -48,7 +52,34 @@ Guillaume Lobet
 
 <span style="font-size:0.5em; color:gray"> <i class="fa fa-th" aria-hidden="true"></i> Press "o" for overview  **|**  <i class="fa fa-expand" aria-hidden="true"></i> Press "f" for full screen </span>
 
++++
 
+##  Contribution de l'activité au référentiel AA
+
+- Connaître et comprendre un socle de savoirs scientifiques dans le domaine des ressources en eaux et en sols (M1.2)
+
+- Mobiliser des savoirs en ingénierie de manière critique face à un problème complexe dans le domaine de l'environnement, en intégrant des processus à différentes échelles allant du minéral et de l'organisme vivant jusqu'au paysage (M1.4, M2.4)
+
+- Résumer un état des connaissances sur une problématique de recherche complexe en continuité avec ses choix de spécialisation (M3.1)
+
+- Analyse selon une approche systémique et multidisciplinaire une problématique complexe d'ingénierie dans le domaine de l'environnement (M4.3)
+
+- Comprendre et exploiter des articles scientifiques et documents techniques avancés (M6.1)
+
+ 
++++
+
+## Formulation spécifique pour cette activité des AA du programme
+
+A la fin de cette activité, l'étudiant est capable :
+
+- d'appréhender les interactions sol-plante à l'échelle du champ cultivé pour mieux gérer le système de culture et ses impacts sur le sol et la plante
+
+- de percevoir la dynamique des interactions sol-plante, en référence au fonctionnement des sols cultivés et aux stratégies d'exploration et d'exploitation du sol par la plante
+
+- d'interpréter les réponses de la plante à son environnement et aux intrants, et l'impact du système de culture sur le sol
+
+- d'envisager la gestion de la fertilité dans un cadre systémique respectueux de l'environnement, via l'adoption d'itinéraires techniques ad hoc et le monitoring du système de culture
 
 
 <!---------------------------------------------------->
@@ -59,13 +90,35 @@ Guillaume Lobet
 
 ## Introduction
 
-<span style="color:orange">About interactions, soil and animals</span>
+<span style="color:orange">About world status, interactions, soil and animals</span>
 
 <span style="font-size:0.5em; color:gray"> <i class="fa fa-arrow-circle-o-down" aria-hidden="true"></i> Press down for details </span>
 
-
 ![](img/roots.png)
 
+
+## Water in the world
+
+![](img/world_water_2018.png)
+
++++
+
+## Status in 2040
+
+![](img/world_water_2040.png)
++++
+
+## Status in Europe in 2040
+
+![](img/europe_water_2040.png)
++++
+
+## Increase in variability
+
+
+![](img/world_variability.png)
+
++++
 
 +++?image=img/interactions.jpg
 
@@ -209,7 +262,7 @@ local K upake- Non-additivity ot single (or multiple factors)
 
 ### Soil retention curve
 
-![](img/soil-retention.bmp)
+![](img/soil-retention.jpg)
 <small>Source: <a href="http://www.tankonyvtar.hu/en/tartalom/tamop425/0032_talajtan/ch07s05.html">http://www.tankonyvtar.hu/en/tartalom/tamop425/0032_talajtan/ch07s05.html</a></small>
 
 
