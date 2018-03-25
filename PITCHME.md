@@ -33,7 +33,7 @@ Guillaume Lobet
 
 --- 
 
-## Editing in Google Docs
+### Editing in Google Docs
 
 Use the Suggestion Mode
 
@@ -54,7 +54,7 @@ Use the Suggestion Mode
 
 +++
 
-##  Contribution de l'activité au référentiel AA
+###  Contribution de l'activité au référentiel AA
 
 - Connaître et comprendre un socle de savoirs scientifiques dans le domaine des ressources en eaux et en sols (M1.2)
 
@@ -69,7 +69,7 @@ Use the Suggestion Mode
  
 +++
 
-## Formulation spécifique pour cette activité des AA du programme
+### Formulation spécifique pour cette activité des AA du programme
 
 A la fin de cette activité, l'étudiant est capable :
 
