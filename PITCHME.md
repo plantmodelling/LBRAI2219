@@ -133,7 +133,6 @@ A la fin de cette activité, l'étudiant est capable :
 
 ![](img/world_variability.png)
 
-+++
 
 +++?image=img/interactions.jpg
 
@@ -211,6 +210,14 @@ local K upake- Non-additivity ot single (or multiple factors)
 
 
 +++?image=img/halle-1.jpg
+
++++?image=img/lamarck.jpg
+## Animals do not adapt to their environment
+
+
++++?image=img/temple.jpg
+## Plants do adapt to their environment
+
 
 
 +++?image=img/maize-field.JPG
