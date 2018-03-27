@@ -124,13 +124,20 @@ A la fin de cette activité, l'étudiant est capable :
 
 +++?image=img/oca.jpg
 
-
++++
 
 ### Tuber and roots are an important part of agricultural production
 
 ![](img/tuber_production.png)
 
+
 +++?image=img/Switchgrass_roots.jpg
+
++++?image=img/maize_root.png
+
++++?image=img/wheat_root.png
+
+
 
 
 +++
