@@ -108,7 +108,7 @@ A la fin de cette activité, l'étudiant est capable :
 
 ## Introduction
 
-<span style="color:orange">About world status, interactions, soil and animals</span>
+<span style="color:orange">About roots, world status, interactions, soil and animals</span>
 
 <span style="font-size:0.5em; color:gray"> <i class="fa fa-arrow-circle-o-down" aria-hidden="true"></i> Press down for details </span>
 
