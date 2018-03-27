@@ -46,9 +46,13 @@ Use the Suggestion Mode
 
 - Introduction
 - Root systems architecture
+	- Different types of root systems and how they are built
 - How do roots shape the water uptake ? 
+	- About root hydraulic architecture, density profiles and drought
 - How does the soil shape the roots ?
+	- About tropism, soil strenght and hydropatterning
 - How can we observe roots ?
+	- About phenotyping and experimental setup
 
 <span style="font-size:0.5em; color:gray"> <i class="fa fa-th" aria-hidden="true"></i> Press "o" for overview  **|**  <i class="fa fa-expand" aria-hidden="true"></i> Press "f" for full screen </span>
 
