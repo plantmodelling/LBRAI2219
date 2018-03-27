@@ -114,6 +114,23 @@ A la fin de cette activité, l'étudiant est capable :
 
 ![](img/roots.png)
 
++++?image=img/carrot.jpg
+
++++?image=img/cassava.jpg
+
++++?image=img/potato.jpg
+
++++?image=img/sugar_beet.jpg
+
++++?image=img/oca.jpg
+
+
+
+### Tuber and roots are an important part of agricultural production
+
+![](img/tuber_production.png)
+
+
 +++
 
 ### Water in the world
