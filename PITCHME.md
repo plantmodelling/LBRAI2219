@@ -130,6 +130,8 @@ A la fin de cette activité, l'étudiant est capable :
 
 ![](img/tuber_production.png)
 
++++?image=img/Switchgrass_roots.jpg
+
 
 +++
 
