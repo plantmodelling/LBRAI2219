@@ -141,6 +141,7 @@ A la fin de cette activité, l'étudiant est capable :
 
 +++?image=img/wheat_root.png
 
++++
 
 ### Carbon sequestration in soil
 
