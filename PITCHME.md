@@ -114,6 +114,10 @@ A la fin de cette activité, l'étudiant est capable :
 
 ![](img/roots.png)
 
++++
+
+## Roots?
+
 +++?image=img/carrot.jpg
 
 +++?image=img/cassava.jpg
@@ -137,7 +141,9 @@ A la fin de cette activité, l'étudiant est capable :
 
 +++?image=img/wheat_root.png
 
++++
 
+## Our current (and future) world
 
 
 +++
