@@ -126,7 +126,7 @@ A la fin de cette activité, l'étudiant est capable :
 
 +++
 
-### Tuber and roots are an important part of agricultural production
+### Tuber and roots - World production
 
 ![](img/tuber_production.png)
 
