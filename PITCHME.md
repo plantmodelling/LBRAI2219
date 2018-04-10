@@ -37,7 +37,7 @@ Guillaume Lobet
 
 Use the Suggestion Mode
 
-![](img/gdocs.png)
+![](small_img/gdocs.jpg)
 
 --- 
 
@@ -97,7 +97,7 @@ A la fin de cette activité, l'étudiant est capable :
 
 ### Cursus plante 
 
-![](img/cursus.png)
+![](small_img/cursus.jpg)
 
 
 <!---------------------------------------------------->
@@ -112,40 +112,40 @@ A la fin de cette activité, l'étudiant est capable :
 
 <span style="font-size:0.5em; color:gray"> <i class="fa fa-arrow-circle-o-down" aria-hidden="true"></i> Press down for details </span>
 
-![](img/roots.png)
+![](small_img/roots.jpg)
 
 +++
 
 ## Roots?
 
-+++?image=img/carrot.jpg
++++?image=small_img/carrot.jpg
 
-+++?image=img/cassava.jpg
++++?image=small_img/cassava.jpg
 
-+++?image=img/potato.jpg
++++?image=small_img/potato.jpg
 
-+++?image=img/sugar_beet.jpg
++++?image=small_img/sugar_beet.jpg
 
-+++?image=img/oca.jpg
++++?image=small_img/oca.jpg
 
 +++
 
 ### Tuber and roots - World production
 
-![](img/tuber_production.png)
+![](small_img/tuber_production.jpg)
 
 
-+++?image=img/Switchgrass_roots.jpg
++++?image=small_img/Switchgrass_roots.jpg
 
-+++?image=img/maize_root.png
++++?image=small_img/maize_root.jpg
 
-+++?image=img/wheat_root.png
++++?image=small_img/wheat_root.jpg
 
 +++
 
 ### Carbon sequestration in soil
 
-![](img/world_soc.png)
+![](small_img/world_soc.jpg)
 
 +++
 
@@ -156,27 +156,27 @@ A la fin de cette activité, l'étudiant est capable :
 
 ### Water in the world
 
-![](img/world_water_2018.png)
+![](small_img/world_water_2018.jpg)
 
 +++
 
 ### Status in 2040
 
-![](img/world_water_2040.png)
+![](small_img/world_water_2040.jpg)
 +++
 
 ### Status in Europe in 2040
 
-![](img/europe_water_2040.png)
+![](small_img/europe_water_2040.jpg)
 +++
 
 ### Increase in variability
 
 
-![](img/world_variability.png)
+![](small_img/world_variability.jpg)
 
 
-+++?image=img/interactions.jpg
++++?image=small_img/interactions.jpg
 
 # Interactions
 
@@ -198,18 +198,18 @@ local K upake- Non-additivity ot single (or multiple factors)
 
 #### Example of effect of single nutrient supply on root architecture
 
-![](img/gruber.jpg)
+![](small_img/gruber.jpg)
 
 
 +++
 
 #### Example of multiple nutrient supply on root architecture
 
-![](img/kellermeyer.png)
+![](small_img/kellermeyer.jpg)
 
 
 
-+++?image=img/zombie.jpg
++++?image=small_img/zombie.jpg
 
 # Plants vs animals
 
@@ -251,18 +251,18 @@ local K upake- Non-additivity ot single (or multiple factors)
 </div>
 
 
-+++?image=img/halle-1.jpg
++++?image=small_img/halle-1.jpg
 
-+++?image=img/lamarck.jpg
++++?image=small_img/lamarck.jpg
 ## Animals do not adapt to their environment
 
 
-+++?image=img/temple.jpg
++++?image=small_img/temple.jpg
 ## Plants do adapt to their environment
 
 
 
-+++?image=img/maize-field.JPG
++++?image=small_img/maize-field.JPG
 
 ## Space heterogeneity: soil vs atmosphere
 
@@ -275,45 +275,45 @@ local K upake- Non-additivity ot single (or multiple factors)
 # Some basics about the soil
 
 
-+++?image=img/root-soil.jpg
++++?image=small_img/root-soil.jpg
 
 +++
 
 ### Vertical heterogeneity in the soil
 
-![](img/soil_profile.jpg)
+![](small_img/soil_profile.jpg)
 
 +++
 
 ### Horizontal heterogeneity in the soil
 
-![](img/horizontal-profile.jpg)
+![](small_img/horizontal-profile.jpg)
 
 
 +++
 
 ### Time heterogeneity in the soil
 
-![](img/water-uptake-1.jpg)
+![](small_img/water-uptake-1.jpg)
 
 
 +++
 
 ### Root environment = Rhizosphere
 
-![](img/rhizosphere.jpg)
+![](small_img/rhizosphere.jpg)
 
 +++
 
 ### Ion movement in the soils
 
-![](img/soil-york-1.png)
+![](small_img/soil-york-1.jpg)
 
 +++
 
 ### Water movement in the soils
 
-![](img/soil-york-2.jpg)
+![](small_img/soil-york-2.jpg)
 
 
 
@@ -321,12 +321,12 @@ local K upake- Non-additivity ot single (or multiple factors)
 
 ### The soil is complex medium
 
-![](img/soil-triangle.png)
+![](small_img/soil-triangle.jpg)
 +++
 
 ### Soil retention curve
 
-![](img/soil-retention.jpg)
+![](small_img/soil-retention.jpg)
 <small>Source: <a href="http://www.tankonyvtar.hu/en/tartalom/tamop425/0032_talajtan/ch07s05.html">http://www.tankonyvtar.hu/en/tartalom/tamop425/0032_talajtan/ch07s05.html</a></small>
 
 
@@ -334,7 +334,7 @@ local K upake- Non-additivity ot single (or multiple factors)
 
 ### Soil conductivity curve
 
-![](img/soil-conductivity.jpg)
+![](small_img/soil-conductivity.jpg)
 
 
 
