@@ -100,256 +100,363 @@ A la fin de cette activité, l'étudiant est capable :
 ![](small_img/cursus.jpg)
 
 
+
+
+
 <!---------------------------------------------------->
-<!--    	INTRODUCTION   -->
+<!--    	SECTION ABOUT THE ROOT SYSTEMS    -->
 <!---------------------------------------------------->
+
 ---
 
+## Root systems
 
-## Introduction
-
-<span style="color:orange">About roots, world status, interactions, soil and animals</span>
+<span style="color:orange">Different types of root systems and how they are built</span>
 
 <span style="font-size:0.5em; color:gray"> <i class="fa fa-arrow-circle-o-down" aria-hidden="true"></i> Press down for details </span>
 
-![](small_img/roots.jpg)
+
+![](small_img/root-2.jpg)
 
 +++
 
-## Roots?
+#### Root have simple radial and axial anatomy
 
-+++?image=small_img/carrot.jpg
+![](small_img/root-anatomy.jpg)
 
-+++?image=small_img/cassava.jpg
-
-+++?image=small_img/potato.jpg
-
-+++?image=small_img/sugar_beet.jpg
-
-+++?image=small_img/oca.jpg
-
-+++
-
-### Tuber and roots - World production
-
-![](small_img/tuber_production.jpg)
++++ 
 
 
-+++?image=small_img/Switchgrass_roots.jpg
+#### The root radial anatomy is relativelly conserved accross species
 
-+++?image=small_img/maize_root.jpg
 
-+++?image=small_img/wheat_root.jpg
+![](small_img/crosssection.jpg)
 
-+++
 
-### Carbon sequestration in soil
 
-![](small_img/world_soc.jpg)
++++?image=small_img/root-pop.jpg
 
-+++
-
-## Our current (and future) world
+## Root systems are populations of roots
 
 
 +++
 
-### Water in the world
+#### Root age distribution in Crypsis aculeata
 
-![](small_img/world_water_2018.jpg)
-
-+++
-
-### Status in 2040
-
-![](small_img/world_water_2040.jpg)
-+++
-
-### Status in Europe in 2040
-
-![](small_img/europe_water_2040.jpg)
-+++
-
-### Increase in variability
+![](small_img/crypsis.jpg)
 
 
-![](small_img/world_variability.jpg)
++++ 
+
+#### Root nomenclature
+
+![](small_img/monocot-dicot.jpg)
 
 
-+++?image=small_img/interactions.jpg
++++ 
 
-# Interactions
+#### Monocots vs dicots
 
-+++
 
-#### *Interaction* can mean different things
-- Interactions between compartiments of the system
-`$$Plant_t = f(Plant_{t-1}, Soil_t, ...)$$`
-`$$Soil_t = f(Soil_{t-1}, Plant_t, ...)$$`
-	    - Interactions between function of the system
-	- 	local supply in N <i class="fa fa-arrow-right" aria-hidden="true"></i>
-ramification <i class="fa fa-arrow-right" aria-hidden="true"></i>
-local K upake- Non-additivity ot single (or multiple factors)
-	- effect of new dose of a given factor is variable between dose, species, developmental stages, ...
-	- effect depend on the environment	
+| | Monocot | Dicot|
+| ------- | -------- | -------- |
+| **Type** | fasciculated | herring-bone|
+| **Basal roots** | yes | (yes) |
+| **Shoot borne roots** | yes | no |
+| **Secondary growth** | no | yes |
+ 
+ 
+
+
++++ 
+
+#### Monocots vs dicots 
+
+
+![](small_img/maize-lupin.jpg)
+
 
 
 +++
 
-#### Example of effect of single nutrient supply on root architecture
+#### Complex root architecture arise from a limited number of simple processes
 
-![](small_img/gruber.jpg)
+1. Root production
+2. Root axial growth
+3. Root tropisms
+4. Root branching
 
 
 +++
 
-#### Example of multiple nutrient supply on root architecture
 
-![](small_img/kellermeyer.jpg)
-
-
-
-+++?image=small_img/zombie.jpg
-
-# Plants vs animals
+## Root production
 
 +++
 
-<div style="font-size:0.8em;">
-<table>
-  <tr>
-    <th></th>
-    <th> Plants </th> 
-    <th> Animals </th>
-  </tr>
-  <tr class="fragment">
-    <td>**Food source**</td>
-    <td class="fragment">Autotroph</td>
-    <td class="fragment">Heterotroph</td>
-  </tr>
-  <tr class="fragment">
-    <td>**Access to food**</td>
-    <td class="fragment">Have to grow more to reach food source</td>
-    <td class="fragment">Move to food source</td>
-  </tr>
-  <tr class="fragment">
-    <td> **Growth** </td>
-    <td class="fragment">Potentially unlimited</td>
-    <td class="fragment"> Limited </td>
-  </tr>
-  <tr class="fragment">
-    <td> **Environment** </td>
-    <td class="fragment">Highly heterogeneous</td>
-    <td class="fragment"> Mostly homogeneous </td>
-  </tr>  
-  <tr class="fragment">
-    <td> **Death** </td>
-    <td class="fragment">Can partially die</td>
-    <td class="fragment"> Die </td>
-  </tr>  
-</table>
-</div>
+##### In monocots, root production (order 0) depend on the node /tiller formation
+
+![](small_img/root-production.jpg)
 
 
-+++?image=small_img/halle-1.jpg
++++
 
-+++?image=small_img/lamarck.jpg
-## Animals do not adapt to their environment
+##### Root production = f(environment)
 
+Light interception, temeprature, soil strenght, nutrients, ...
 
-+++?image=small_img/temple.jpg
-## Plants do adapt to their environment
-
+![](small_img/production.jpg)
 
 
-+++?image=small_img/maize-field.JPG
++++
 
-## Space heterogeneity: soil vs atmosphere
+## Growth
+
++++
+
+#### Axial growth
+
+
+Simple process at the single root scale:
+
+
+1. Cells production
+2. Cells division
+3. Cells elongation
+
+
+![](small_img/root-elongation.jpg)
+
++++
+
+![Video](https://www.youtube.com/embed/IjGgt8rOg_0?t=13s)
+
++++ 
+
+##### The meristem is region of important metabolic activity
+
+- Water uptake
+- Carbon consumption
+- Exudation
+- ...
+
+![Video](https://www.youtube.com/embed/o_dGBDjWW-A)
+
++++
+
+##### Growth rate is not always constant
+
+![](small_img/archidart.jpg)
+
++++
+
+##### Growth rate is not always constant
+
+![](small_img/root_growth.jpg)
+
++++
+
+##### Growth as a function of diameter ?
+
+![](small_img/growth_diameter.jpg)
 
 
 
 
 
 +++
-
-# Some basics about the soil
-
-
-+++?image=small_img/root-soil.jpg
+## Tropisms
 
 +++
 
-### Vertical heterogeneity in the soil
+##### Tropisms = growth re-direction
 
-![](small_img/soil_profile.jpg)
-
-+++
-
-### Horizontal heterogeneity in the soil
-
-![](small_img/horizontal-profile.jpg)
+![](small_img/tropism.jpg)
+<small>Source: <a href="http://csls-text3.c.u-tokyo.ac.jp/active/22_04.html">http://csls-text3.c.u-tokyo.ac.jp/active/22_04.html</a></small>
 
 
 +++
 
-### Time heterogeneity in the soil
+##### Different type of tropisms in roots
 
-![](small_img/water-uptake-1.jpg)
+- **Gravitropism**
+	- toward the center of the Earth
+- **Chemiotropism**
+	- toward an increasing concentration in a specific nutrient
+- **Hydrotropism**
+	- toward increasing water potential values
+- Tropisms change with
+	- root types
+	- root ages
+	- environment conditions
+	- 
+
++++
+
+##### Gravitropism = f(root age)
+
+![](small_img/gravistropism_maize.jpg)
 
 
 +++
 
-### Root environment = Rhizosphere
+##### Gravitropism = f(soil temp)
 
-![](small_img/rhizosphere.jpg)
-
-+++
-
-### Ion movement in the soils
-
-![](small_img/soil-york-1.jpg)
-
-+++
-
-### Water movement in the soils
-
-![](small_img/soil-york-2.jpg)
+![](small_img/gravitropism_temp.jpg)
 
 
 
-+++
 
-### The soil is complex medium
-
-![](small_img/soil-triangle.jpg)
-+++
-
-### Soil retention curve
-
-![](small_img/soil-retention.jpg)
-<small>Source: <a href="http://www.tankonyvtar.hu/en/tartalom/tamop425/0032_talajtan/ch07s05.html">http://www.tankonyvtar.hu/en/tartalom/tamop425/0032_talajtan/ch07s05.html</a></small>
-
-
-+++
-
-### Soil conductivity curve
-
-![](small_img/soil-conductivity.jpg)
 
 
 
 +++
 
-#### Soil is:
+## Root branching
 
-- complex media
-	- different particule sizes
-	- different physico-chemical properties
-- highly heterogeneous
-	- verticaly
-	- horizontaly
-	- in time
-- non linear behaviour
++++
+
+##### Branching
+
+
+![](small_img/orman.jpg)
+
+
++++
+
+##### Lateral roots emerge with a given angle
+
+![](small_img/angles.jpg)
+
+
+##### Lateral roots emerge with a given density
+
+![](small_img/postma-density.jpg)
+
+
+
+
++++
+
+##### Lateral roots represent a large proportion of the total root system
+
+
+![](small_img/lateral_roots.jpg)
+
+
++++
+
+##### The parent root can be divided in different regions
+
+
+- Basal zone
+- Branched zone
+- Apical zone
+
+![](small_img/branching.jpg)
+
+
++++
+
+![Video](https://www.youtube.com/embed/5XDpqa-83qc)
+
+
+
++++
+
+##### LAUZ = f(growth)
+
+
+LAUZ = Length of Apical Unbranched Zone
+
+![](small_img/lauz.jpg)
+
+
+
+
++++
+
+## Integrations
+
++++
+
+##### Different strategies
+
+- Dicots
+	- [x,y] exploration -> lateral roots
+	- [z] exploration -> primary axis
+	- secondary growth -> large number of laterals
+	- Axes stop growing -> stay alive
+- Monocots
+	- [x,y,z] exploration -> primary axis (nodals)
+	- no secondary growth -> limited number of laterals
+	- Axes stop growing -> reduce the branching region
+	- post-embryonic root system much more important
+	- nodal root production stops at flowering
+
++++
+
+##### Root have a cost
+
+- Different costs:
+	- production
+	- maintenance
+	- exudation
+
+![](small_img/carbon.jpg)
+
++++
+
+##### Root / shoot allocation
+
+
+![](small_img/allocation.jpg)
+
+
+
+
++++
+
+##### Reducing maintenance cost -> Aerenchyma
+
+
+![](small_img/aerenchyma.jpg)
+
+
+
+
++++
+
+##### Modelling root system architectures - 1
+
+![](small_img/root-model-1.jpg)
+
++++
+
+##### Modelling root system architectures - 2
+
+![](small_img/root-model-2.jpg)
+
++++
+
+#### Try out the model
+
+
+![](small_img/crootbox.jpg)
+
+
+[https://bit.ly/crootbox](https://bit.ly/crootbox)
+
++++
+
+#### Exercices
+
+1. Choose a plant species
+1. Maxime exploration and reduce cost
+2. Maxime uptake of a top-layer, immobile ressource
+3. Maxime uptake of a mobile ressource
+
+
 
 
 
