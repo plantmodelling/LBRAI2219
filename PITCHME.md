@@ -229,9 +229,6 @@ Simple process at the single root scale:
 
 ![](small_img/root-elongation.jpg)
 
-+++
-
-![Video](https://www.youtube.com/embed/IjGgt8rOg_0?t=13s)
 
 +++ 
 
@@ -323,6 +320,9 @@ Simple process at the single root scale:
 
 ![](small_img/orman.jpg)
 
++++
+
+![Video](https://www.youtube.com/embed/IjGgt8rOg_0?t=13s)
 
 +++
 
@@ -330,12 +330,12 @@ Simple process at the single root scale:
 
 ![](small_img/angles.jpg)
 
++++
+
 
 ##### Lateral roots emerge with a given density
 
 ![](small_img/postma-density.jpg)
-
-
 
 
 +++
