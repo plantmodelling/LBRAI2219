@@ -382,19 +382,26 @@ LAUZ = Length of Apical Unbranched Zone
 
 +++
 
-##### Different strategies
+##### Different strategies: Dicots
 
-- Dicots
-	- [x,y] exploration -> lateral roots
-	- [z] exploration -> primary axis
-	- secondary growth -> large number of laterals
-	- Axes stop growing -> stay alive
-- Monocots
-	- [x,y,z] exploration -> primary axis (nodals)
-	- no secondary growth -> limited number of laterals
-	- Axes stop growing -> reduce the branching region
-	- post-embryonic root system much more important
-	- nodal root production stops at flowering
+- [x,y] exploration -> lateral roots
+- [z] exploration -> primary axis
+- secondary growth -> large number of laterals
+- Axes stop growing -> stay alive
+
+	
++++
+
+![Video](https://www.youtube.com/embed/w77zPAtVTuI)	
++++
+
+##### Different strategies - Monocots
+
+- [x,y,z] exploration -> primary axis (nodals)
+- no secondary growth -> limited number of laterals
+- Axes stop growing -> reduce the branching region
+- post-embryonic root system much more important
+- nodal root production stops at flowering
 
 +++
 
