@@ -436,6 +436,10 @@ LAUZ = Length of Apical Unbranched Zone
 
 +++
 
+## Modelling root architecture
+
++++
+
 ##### Modelling root system architectures - 1
 
 ![](small_img/root-model-1.jpg)
