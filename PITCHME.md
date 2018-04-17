@@ -153,6 +153,8 @@ A la fin de cette activité, l'étudiant est capable :
 ![](small_img/monocot-dicot.jpg)
 
 
++++?image=small_img/brace_root.jpg
+
 +++ 
 
 #### Monocots vs dicots
@@ -203,7 +205,7 @@ A la fin de cette activité, l'étudiant est capable :
 
 ##### Root production = f(environment)
 
-Light interception, temeprature, soil strenght, nutrients, ...
+Light interception, temperature, soil strenght, nutrients, ...
 
 ![](small_img/production.jpg)
 
