@@ -1,0 +1,20 @@
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat:900');
+
+
+.reveal section img {
+  border: 0;
+  box-shadow: none;
+  max-height: 500px;
+}
+
+.reveal h1,
+.reveal h2{
+  color: #1AA3DA;
+font-family: 'Montserrat', sans-serif;
+}
+
+
+.reveal li{
+	font-size: 0.8em;
+}
