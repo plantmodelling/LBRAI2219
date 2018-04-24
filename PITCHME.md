@@ -340,7 +340,7 @@ A la fin de cette activité, l'étudiant est capable :
 #### Hydraulic lift
 
 
-![](small_img/hydraulic_lift.gif)
+![](small_img/hydraulic_lift.jpg)
 
 
 
@@ -403,6 +403,40 @@ A la fin de cette activité, l'étudiant est capable :
 #### For crop improvement, phenotypic variability is crucial
 
 ![](small_img/length_variability.jpg)
+
+
++++ 
+
+
+#### Modelling water flow in the plant - MARSHAL
+
+
+
+[https://plantmodelling.shinyapps.io/marshal/]()
+
+
+![](small_img/marshal.jpg)
+
++++
+
+#### Using models to define ideotypes
+
+
+![](small_img/marshal_sensitive.jpg)
+
+
+
++++
+
+#### Exercice for next lecture
+
+
+
+[http://www.botalgorithme.be/mecha/]()
+
+
+[http://www.botalgorithme.be/marshal/]()
+
 
 
 
