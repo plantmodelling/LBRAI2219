@@ -408,7 +408,7 @@ A la fin de cette activité, l'étudiant est capable :
 +++ 
 
 
-#### Modelling water flow in the plant - MARSHAL
+#### Using models to define ideotypes
 
 
 
