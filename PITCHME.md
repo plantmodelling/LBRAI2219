@@ -428,7 +428,7 @@ A la fin de cette activité, l'étudiant est capable :
 
 +++
 
-#### Exercice for next lecture
+#### Exercices for next lecture
 
 
 
