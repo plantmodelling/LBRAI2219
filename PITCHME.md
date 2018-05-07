@@ -263,7 +263,7 @@ A la fin de cette activité, l'étudiant est capable :
 
 #### Example of multiple nutrient supply on root architecture
 
-![](small_img/kellermeyer.png)
+![](small_img/kellermeyer.jpg)
 
 
 +++
@@ -271,6 +271,13 @@ A la fin de cette activité, l'étudiant est capable :
 #### Effect of nutrient patch on root architecture
 
 ![](small_img/drew_nutrient.jpg)
+
+
++++
+
+#### Effect of nutrient apoplastic barriers
+
+![](small_img/barberon.jpg)
 
 
 
@@ -286,7 +293,7 @@ A la fin de cette activité, l'étudiant est capable :
 #### Temperature constant below 10 cm depth
 
 
-![](small_img/soil_temp.gif)
+![](small_img/soil_temp.jpg)
 
 +++
 
