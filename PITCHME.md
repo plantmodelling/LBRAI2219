@@ -205,6 +205,13 @@ A la fin de cette activité, l'étudiant est capable :
 
 #### X-Ray / MRI
 
+![Video](https://www.youtube.com/embed/WZtsoVYJ3Iw?t=13s)
+
+
++++
+
+#### X-Ray / MRI
+
 ![](small_img/ct.jpg)
 
 +++
@@ -223,7 +230,14 @@ A la fin de cette activité, l'étudiant est capable :
 
 #### Trenches
 
-![](small_img/maize-field.JPG)
+![](small_img/maize-field.jpg)
+
+
++++
+
+#### Mini-rhizotrons
+
+![](small_img/mini-rhizotron.jpg)
 
 
 
