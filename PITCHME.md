@@ -206,13 +206,6 @@ A la fin de cette activité, l'étudiant est capable :
 [https://nrobbins.shinyapps.io/20161105_hydropatterning_app/]()
 
 
-+++
-
-#### Local conditions shape the root system
-
-![](small_img/global_local.jpg)
-
-
 
 
 
@@ -312,4 +305,11 @@ A la fin de cette activité, l'étudiant est capable :
 
 
 
+
+
++++
+
+#### Local conditions shape the root system
+
+![](small_img/global_local.jpg)
 
