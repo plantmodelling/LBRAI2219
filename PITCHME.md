@@ -26,10 +26,10 @@ Guillaume Lobet
 - Collaborative **summary**
 	- Everybody can take notes in a Google Doc
 	- I will correct the summary after each course
-	-  <i class="fa fa-link" aria-hidden="true"></i> http://bit.ly/LBRES2106-2018
+	-  <i class="fa fa-link" aria-hidden="true"></i> http://bit.ly/LBRES2106-2019
 
 - Course **evaluation**: 
-	- <i class="fa fa-link" aria-hidden="true"></i> http://bit.ly/LBRES2106-eval-2018
+	- <i class="fa fa-link" aria-hidden="true"></i> http://bit.ly/LBRES2106-eval-2019
 
 --- 
 
@@ -183,13 +183,17 @@ A la fin de cette activité, l'étudiant est capable :
 +++
 
 #### *Interaction* can mean different things
-- Interactions between compartiments of the system
+
+- Interactions between compartiments of the system
 `$$Plant_t = f(Plant_{t-1}, Soil_t, ...)$$`
 `$$Soil_t = f(Soil_{t-1}, Plant_t, ...)$$`
-	    - Interactions between function of the system
+	    
+- Interactions between function of the system
 	- 	local supply in N <i class="fa fa-arrow-right" aria-hidden="true"></i>
 ramification <i class="fa fa-arrow-right" aria-hidden="true"></i>
-local K upake- Non-additivity ot single (or multiple factors)
+local K upake
+
+- Non-additivity ot single (or multiple factors)
 	- effect of new dose of a given factor is variable between dose, species, developmental stages, ...
 	- effect depend on the environment	
 
