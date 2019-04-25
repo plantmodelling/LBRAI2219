@@ -26,10 +26,10 @@ Guillaume Lobet
 - Collaborative **summary**
 	- Everybody can take notes in a Google Doc
 	- I will correct the summary after each course
-	-  <i class="fa fa-link" aria-hidden="true"></i> http://bit.ly/LBRES2106-2018
+	-  <i class="fa fa-link" aria-hidden="true"></i> http://bit.ly/LBRES2106-2019
 
 - Course **evaluation**: 
-	- <i class="fa fa-link" aria-hidden="true"></i> http://bit.ly/LBRES2106-eval-2018
+	- <i class="fa fa-link" aria-hidden="true"></i> http://bit.ly/LBRES2106-eval-2019
 
 --- 
 
