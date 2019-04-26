@@ -266,7 +266,7 @@ local K upake
 
 
 
-+++?image=small_img/maize-field.JPG
++++?image=small_img/maize-field.jpg
 
 ## Space heterogeneity: soil vs atmosphere
 
