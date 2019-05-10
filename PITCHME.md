@@ -200,6 +200,12 @@ A la fin de cette activité, l'étudiant est capable :
 
 +++
 
+#### Apoplastic barriers development
+
+![](small_img/apoplastic_barriers.jpg)
+
++++
+
 #### Anatomy and conductivity
 
 ![](small_img/granar_1.jpg)
@@ -234,11 +240,6 @@ A la fin de cette activité, l'étudiant est capable :
 
 ![](small_img/granar_5.png)
 
-+++
-
-#### Apoplastic barriers development
-
-![](small_img/apoplastic_barriers.jpg)
 
 +++
 
