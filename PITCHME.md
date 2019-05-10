@@ -202,28 +202,37 @@ A la fin de cette activité, l'étudiant est capable :
 
 #### Anatomy and conductivity
 
-![](small_img/granar_1.jpg)
+![](small_img/granar_1.png)
 
 
 +++
 
 #### Anatomy and conductivity
 
-![](small_img/granar_2.jpg)
+![](small_img/granar_2.png)
 
 
 +++
 
 #### Anatomy and conductivity
 
-![](small_img/granar_3.jpg)
+![](small_img/granar_3.png)
 
 
 +++
 
 #### Anatomy and conductivity
 
-![](small_img/granar_4.jpg)
+![](small_img/granar_4.png)
+
+
+
+
++++
+
+#### Anatomy and conductivity
+
+![](small_img/granar_5.png)
 
 +++
 
