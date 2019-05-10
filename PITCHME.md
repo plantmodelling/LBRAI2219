@@ -202,7 +202,7 @@ A la fin de cette activité, l'étudiant est capable :
 
 #### Anatomy and conductivity
 
-![](small_img/granar_1.png)
+![](small_img/granar_1.jpg)
 
 
 +++
