@@ -206,7 +206,12 @@ A la fin de cette activité, l'étudiant est capable :
 [https://nrobbins.shinyapps.io/20161105_hydropatterning_app/]()
 
 
++++
 
+
+#### Xerobranching
+
+![](small_img/xerobranching.jpg)
 
 
 
